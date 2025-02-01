@@ -1,0 +1,21 @@
+{
+    "update_enforcement": "not_mandatory",
+    "message": "",
+    "version_code": "",
+    "version_name": "",
+    "apk_url": "",
+    "iptv_url":"https://raw.githubusercontent.com/soobytv/4k/main/soubi.m3u",
+    "anime_domain":"anitaku.bz",
+    "live_tv_main_active":false,
+    "ml_host":"https://timto329gpl.com",
+    "ads":false,
+    "load_logos":true,
+    "futumov_pattern":false,
+    "ads_delay":0,
+    "playlists": [
+        {
+          "url":"https://raw.githubusercontent.com/soobytv/4k/main/icsn.m3u",
+          "name":"#LEBONLY"
+        }
+      ]
+}
