@@ -21,8 +21,6 @@ https://raw.githubusercontent.com/soobytv/4k/main/shi.mp4
 https://raw.githubusercontent.com/soobytv/4k/main/ma.mp4
 #EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",العين الثالثة
 https://raw.githubusercontent.com/soobytv/4k/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="يوغا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",يوغا
-https://raw.githubusercontent.com/soobytv/4k/main/om.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="LEBANON [VIP]",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
 http://media.mtv.com.lb:8080/v1/broadcast/mtv/playlist.m3u8?premium=true
