@@ -1,29 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="سيلفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيلفا
-https://raw.githubusercontent.com/Soubi2/Katy/main/silva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",التحكم
+#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",التحكم
 https://raw.githubusercontent.com/Soubi2/Katy/main/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ألفا
+#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",ألفا
 https://raw.githubusercontent.com/Soubi2/Katy/main/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",بيتا
+#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",بيتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/bb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",جاما
+#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",جاما
 https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",دلتا
+#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",دلتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ثيتا
+#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",ثيتا
 https://raw.githubusercontent.com/Soubi2/Katy/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ملائكة
+#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",ملائكة
 https://raw.githubusercontent.com/Soubi2/Katy/main/11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",سيجما
+#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",سيجما
 https://raw.githubusercontent.com/Soubi2/Katy/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",الشفاء
+#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",الشفاء
 https://raw.githubusercontent.com/Soubi2/Katy/main/shi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",ملاك الحارس
+#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",ملاك الحارس
 https://raw.githubusercontent.com/Soubi2/Katy/main/ma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",العين الثالثة
+#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",العين الثالثة
 https://raw.githubusercontent.com/Soubi2/Katy/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="يوغا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Silva Method",يوغا
+#EXTINF:-1 tvg-id="" tvg-name="يوغا" tvg-logo="https://raw.githubusercontent.com/Soubi2/Katy/main/brai.png" group-title="Brain Waves",يوغا
 https://raw.githubusercontent.com/Soubi2/Katy/main/om.mp4
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV0" tvg-logo="" group-title="LEBANON [VIP]",MTV0 TV
 #EXTVLCOPT:http-referrer=https://www.mtv.com.lb/
