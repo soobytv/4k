@@ -18,7 +18,7 @@
         "name":"#LEBONLY"
       },
       {
-        "url":"file:///android_asset/1.m3u",
+        "url":"file://assets/1.m3u",
         "name":"#IPTV-ORG by Category"
       }
 
