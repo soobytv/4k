@@ -82,8 +82,6 @@ http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/40.m3u8
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="TEST" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",TEST
 https://fs50.bigwarp.io/v/02/00220/ezohg5sh7hup_x/x.mp4?t=Ohmqugj1Gxn_aHhWy9mztosVVioiJoJsjRIWHWsCoCo&s=1741262715&e=43200&f=1104406&sp=1000&i=0.0
-#EXTINF:-1 tvg-id="Andre Rieu" tvg-name="TEST2" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",TEST2
-https://bigwarp.io/embed-ezohg5sh7hup.html
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",1
 https://dl3s2.zvuch.com/aHR0cDovL2YubXAzcG9pc2submV0L21wMy8wMDMvOTIyLzc0NS8zOTIyNzQ1Lm1wMw==
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",2
