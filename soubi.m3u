@@ -80,8 +80,6 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.m3u8
 http://iptv.icsnleb.com:25461/live/ST/ST/49.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="live-stream",1VOD-Documentary
 http://iptv.icsnleb.com:25461/live/ST/ST/40.m3u8
-#EXTINF:-1 tvg-id="Andre Rieu" tvg-name="Test" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Test
-https://pouch.jumpshare.com/preview/j5QJLxWHzSHhe1woF1yV9paPsuDGmGGyN-PxQEq-SGLbALyDA2EkrMVgRNCslln8Egj5LgvoeP4KUmm_ZHb4lrgfxTW2hGJ26sX5vK_T-HH68D_fKAOFxvvPaAyIfVQ6iLdDP9qL9rwPYe4OqKjRaG6yjbN-I2pg_cnoHs_AmgI.mp4
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="1" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",1
 https://moosic.my.mail.ru/file/74b462937a1547495296d86c9f747fed.mp3?k2=c84e2d7d8f4c3681ce87e833f02fd704&playlist=17905963556014
 #EXTINF:-1 tvg-id="Andre Rieu" tvg-name="2" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",2
