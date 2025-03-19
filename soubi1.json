@@ -7,7 +7,7 @@
     "iptv_url":"https://raw.githubusercontent.com/soobytv/4k/main/soubi.m3u",
     "base_domain":"",
     "live_tv":false,
-    "dt_host":"",
+    "ml_host":"",
     "ads":false,
     "load_logos":true,
     "futumov_pattern":false,
