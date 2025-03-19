@@ -5,7 +5,7 @@
     "version_name": "",
     "apk_url": "",
     "iptv_url":"https://raw.githubusercontent.com/soobytv/4k/main/soubi.m3u",
-    "url_domain":"",
+    "base_domain":"",
     "live_tv_main_active":false,
     "ml_host":"",
     "ads":false,
