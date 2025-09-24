@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_1_HD720" tvg-logo="" group-title="football",beIN_SPORTS_1_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_2_HD720" tvg-logo="" group-title="football",beIN_SPORTS_2_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_3_HD720" tvg-logo="" group-title="football",beIN_SPORTS_3_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_4_HD720" tvg-logo="" group-title="football",beIN_SPORTS_4_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_5_HD720" tvg-logo="" group-title="football",beIN_SPORTS_5_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_SPORTS_6_HD720" tvg-logo="" group-title="football",beIN_SPORTS_6_HD720
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Max_1_HD" tvg-logo="" group-title="football",beIN_Max_1_HD
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN_Max_2_HD" tvg-logo="" group-title="football",beIN_Max_2_HD
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/10.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SSC Sport1 HD" tvg-logo="" group-title="football",SSC Sport1 HD
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/11.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AD SPORT REMIUM 1" tvg-logo="" group-title="football",AD SPORT REMIUM 1
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ON Time Sport 1" tvg-logo="" group-title="football",ON Time Sport 1
+http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM1" tvg-logo="" group-title="OSN Local",OSN ART AFLAM1
 http://bk.xiptv.network:80/live/freelist/freelist568/12742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM2" tvg-logo="" group-title="OSN Local",OSN ART AFLAM2
@@ -2704,4 +2726,5 @@ http://bk.xiptv.network:80/series/freelist/freelist568/12664.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCS Music S01 E04" tvg-logo="https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg" group-title="Demo Series 2",NCS Music S01 E04
 http://bk.xiptv.network:80/series/freelist/freelist568/12665.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCS Music S01 E05" tvg-logo="https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg" group-title="Demo Series 2",NCS Music S01 E05
+
 http://bk.xiptv.network:80/series/freelist/freelist568/12666.mp4
