@@ -190,109 +190,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/12760.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/12759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA beIN 3 XTRA Ultra HD" tvg-logo="" group-title="OSN Local",UEFA beIN 3 XTRA Ultra HD
 http://bk.xiptv.network:80/live/freelist/freelist568/12758.m3u8
-#EXTINF:-1 tvg-id="beinsportsnewsar.qa" tvg-name="AR| BEIN SPORTS NEWS HD" tvg-logo="https://lo1.in/bss/bsnews.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS NEWS HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/58.m3u8
-#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="AR| BEIN SPORTS NBA SD" tvg-logo="https://lo1.in/bss/bsnba.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS NBA SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/60.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/99.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/100.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/101.m3u8
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS HD" tvg-logo="https://lo1.in/bss/bs.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/59.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS AFC SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370408.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 AFC SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370409.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="AR| BEIN SPORTS 02 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 AFC SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370410.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="AR| BEIN SPORTS 03 AFC SD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 AFC SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370411.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 SD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 04 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/85.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 SD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 05 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/86.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 SD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 06 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/87.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 SD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 07 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/88.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 SD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 08 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/89.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 SD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 09 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/90.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA SD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 XTRA SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/91.m3u8
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS 01 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs1eng.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 ENGLISH SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/105.m3u8
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS 02 ENGLISH SD" tvg-logo="https://lo1.in/bss/bs2eng.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 ENGLISH SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/106.m3u8
-#EXTINF:-1 tvg-id="beinsports1fr.qa" tvg-name="AR| BEIN SPORTS 01 FRENCH SD" tvg-logo="https://lo1.in/bss/bs1fre.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 FRENCH SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/102.m3u8
-#EXTINF:-1 tvg-id="beinsports2fr.qa" tvg-name="AR| BEIN SPORTS 02 FRENCH SD" tvg-logo="https://lo1.in/bss/bs2fre.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 FRENCH SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/103.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax1.qa" tvg-name="AR| BEIN SPORTS MAX 1 SD" tvg-logo="https://lo1.in/bss/bs1max.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS MAX 1 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/92.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax2.qa" tvg-name="AR| BEIN SPORTS MAX 2 SD" tvg-logo="https://lo1.in/bss/bs2max.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS MAX 2 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/93.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax3.qa" tvg-name="AR| BEIN SPORTS MAX 3 SD" tvg-logo="https://lo1.in/bss/BEIN 3MAX.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS MAX 3 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/94.m3u8
-#EXTINF:-1 tvg-id="beinsportsmax4.qa" tvg-name="AR| BEIN SPORTS MAX 4 SD" tvg-logo="https://lo1.in/bss/bs4max1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS MAX 4 SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/95.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 SD [BK]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 SD [BK]
-http://extraott-iptv.com:88/live/0229477349/8104258135/27771.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 SD [BK]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 SD [BK]
-http://extraott-iptv.com:88/live/0229477349/8104258135/27772.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 SD [BK]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 SD [BK]
-http://extraott-iptv.com:88/live/0229477349/8104258135/27773.m3u8
-#EXTINF:-1 tvg-id="beinsportsglobal.qa" tvg-name="AR| BEIN SPORTS SD" tvg-logo="https://lo1.in/bss/bs.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/39323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 01 XTRA SD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 XTRA SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400449154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 02 XTRA SD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 XTRA SD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400449155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="►►► BEIN| BEIN SPORT HD◄◄◄" tvg-logo="https://lo1.in/bs/bs.png" group-title="►AR | BEIN SPORT",►►► BEIN| BEIN SPORT HD◄◄◄
-http://extraott-iptv.com:88/live/0229477349/8104258135/400159376.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 HD" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/46394.m3u8
-#EXTINF:-1 tvg-id="beinsports1.qa" tvg-name="AR| BEIN SPORTS 01 HD [BK1]" tvg-logo="https://lo1.in/bss/bsS1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 HD [BK1]
-http://extraott-iptv.com:88/live/0229477349/8104258135/10934.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/76.m3u8
-#EXTINF:-1 tvg-id="beinsports2.qa" tvg-name="AR| BEIN SPORTS 02 HD [BK1]" tvg-logo="https://lo1.in/bss/bsS2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 HD [BK1]
-http://extraott-iptv.com:88/live/0229477349/8104258135/10933.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 HD" tvg-logo="https://lo1.in/bss/bs3.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/77.m3u8
-#EXTINF:-1 tvg-id="beinsports3.qa" tvg-name="AR| BEIN SPORTS 03 HD [BK1]" tvg-logo="https://lo1.in/bss/bs3.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 HD [BK1]
-http://extraott-iptv.com:88/live/0229477349/8104258135/10932.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc.qa" tvg-name="AR| BEIN SPORTS AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS AFC HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370400.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc1.qa" tvg-name="AR| BEIN SPORTS 01 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 AFC HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370401.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc2.qa" tvg-name="AR| BEIN SPORTS 02 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 AFC HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370402.m3u8
-#EXTINF:-1 tvg-id="beinsportsafc3.qa" tvg-name="AR| BEIN SPORTS 03 AFC HD" tvg-logo="https://lo1.in/bss/AFC.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 AFC HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400370403.m3u8
-#EXTINF:-1 tvg-id="beinsports4.qa" tvg-name="AR| BEIN SPORTS 04 HD" tvg-logo="https://lo1.in/bss/bs4.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 04 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/61.m3u8
-#EXTINF:-1 tvg-id="beinsports5.qa" tvg-name="AR| BEIN SPORTS 05 HD" tvg-logo="https://lo1.in/bein/beinn5.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 05 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/62.m3u8
-#EXTINF:-1 tvg-id="beinsports6.qa" tvg-name="AR| BEIN SPORTS 06 HD" tvg-logo="https://lo1.in/bein/beinn6.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 06 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/63.m3u8
-#EXTINF:-1 tvg-id="beinsports7.qa" tvg-name="AR| BEIN SPORTS 07 HD" tvg-logo="https://lo1.in/bss/BEIN SPORTS 07.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 07 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/64.m3u8
-#EXTINF:-1 tvg-id="beinsports8.qa" tvg-name="AR| BEIN SPORTS 08 HD" tvg-logo="https://lo1.in/bss/bss8.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 08 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/65.m3u8
-#EXTINF:-1 tvg-id="beinsports9.qa" tvg-name="AR| BEIN SPORTS 09 HD" tvg-logo="https://lo1.in/bss/BEIN09.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 09 HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/66.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra3.qa" tvg-name="AR| BEIN SPORTS 03 XTRA HD" tvg-logo="https://lo1.in/bss/bs3btr.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 03 XTRA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/67.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra1.qa" tvg-name="AR| BEIN SPORTS 01 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra1.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 01 XTRA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400193265.m3u8
-#EXTINF:-1 tvg-id="beinsportsxtra2.qa" tvg-name="AR| BEIN SPORTS 02 XTRA HD" tvg-logo="https://lo1.in/bss/bsxtra2.png" group-title="►AR | BEIN SPORT",AR| BEIN SPORTS 02 XTRA HD
-http://extraott-iptv.com:88/live/0229477349/8104258135/400193264.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM1" tvg-logo="" group-title="OSN Local",OSN ART AFLAM1
 http://bk.xiptv.network:80/live/freelist/freelist568/12742.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN ART AFLAM2" tvg-logo="" group-title="OSN Local",OSN ART AFLAM2
@@ -2999,5 +2896,6 @@ http://bk.xiptv.network:80/series/freelist/freelist568/12664.mp4
 http://bk.xiptv.network:80/series/freelist/freelist568/12665.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCS Music S01 E05" tvg-logo="https://i1.sndcdn.com/artworks-000102769935-nkultb-t500x500.jpg" group-title="Demo Series 2",NCS Music S01 E05
 http://bk.xiptv.network:80/series/freelist/freelist568/12666.mp4
+
 
 
