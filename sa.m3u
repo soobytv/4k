@@ -810,78 +810,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/12566.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/12565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Multi: SSC 1" tvg-logo="" group-title="English Local",Multi: SSC 1
 http://bk.xiptv.network:80/live/freelist/freelist568/12564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Action" tvg-logo="" group-title="Demo",RE: OSN Action
-http://bk.xiptv.network:80/live/freelist/freelist568/12456.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Box Office 1" tvg-logo="" group-title="Demo",RE: OSN Box Office 1
-http://bk.xiptv.network:80/live/freelist/freelist568/12455.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Box Office 2" tvg-logo="" group-title="Demo",RE: OSN Box Office 2
-http://bk.xiptv.network:80/live/freelist/freelist568/12454.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Box Office 3" tvg-logo="" group-title="Demo",RE: OSN Box Office 3
-http://bk.xiptv.network:80/live/freelist/freelist568/12453.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Comedy" tvg-logo="" group-title="Demo",RE: OSN Comedy
-http://bk.xiptv.network:80/live/freelist/freelist568/12452.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Comedy 2" tvg-logo="" group-title="Demo",RE: OSN Comedy 2
-http://bk.xiptv.network:80/live/freelist/freelist568/12451.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Enigma" tvg-logo="" group-title="Demo",RE: OSN Enigma
-http://bk.xiptv.network:80/live/freelist/freelist568/12450.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Family" tvg-logo="" group-title="Demo",RE: OSN Family
-http://bk.xiptv.network:80/live/freelist/freelist568/12449.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Kids" tvg-logo="" group-title="Demo",RE: OSN Kids
-http://bk.xiptv.network:80/live/freelist/freelist568/12448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Kidz Zone" tvg-logo="" group-title="Demo",RE: OSN Kidz Zone
-http://bk.xiptv.network:80/live/freelist/freelist568/12447.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Living" tvg-logo="" group-title="Demo",RE: OSN Living
-http://bk.xiptv.network:80/live/freelist/freelist568/12446.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Mezze" tvg-logo="" group-title="Demo",RE: OSN Mezze
-http://bk.xiptv.network:80/live/freelist/freelist568/12445.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies Holl" tvg-logo="" group-title="Demo",RE: OSN Movies Holl
-http://bk.xiptv.network:80/live/freelist/freelist568/12444.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies Action" tvg-logo="" group-title="Demo",RE: OSN Movies Action
-http://bk.xiptv.network:80/live/freelist/freelist568/12443.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies Disney" tvg-logo="" group-title="Demo",RE: OSN Movies Disney
-http://bk.xiptv.network:80/live/freelist/freelist568/12442.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies Family" tvg-logo="" group-title="Demo",RE: OSN Movies Family
-http://bk.xiptv.network:80/live/freelist/freelist568/12441.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies First" tvg-logo="" group-title="Demo",RE: OSN Movies First
-http://bk.xiptv.network:80/live/freelist/freelist568/12440.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Movies First +2" tvg-logo="" group-title="Demo",RE: OSN Movies First +2
-http://bk.xiptv.network:80/live/freelist/freelist568/12439.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND
-http://bk.xiptv.network:80/live/freelist/freelist568/12438.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND 2" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND 2
-http://bk.xiptv.network:80/live/freelist/freelist568/12437.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND 3" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND 3
-http://bk.xiptv.network:80/live/freelist/freelist568/12436.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND EXTRA 1" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND EXTRA 1
-http://bk.xiptv.network:80/live/freelist/freelist568/12435.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND EXTRA 2" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND EXTRA 2
-http://bk.xiptv.network:80/live/freelist/freelist568/12434.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN ON DEMAND EXTRA 3" tvg-logo="" group-title="Demo",RE: OSN ON DEMAND EXTRA 3
-http://bk.xiptv.network:80/live/freelist/freelist568/12433.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Premiere" tvg-logo="" group-title="Demo",RE: OSN Premiere
-http://bk.xiptv.network:80/live/freelist/freelist568/12432.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TV Movies Comedy" tvg-logo="" group-title="Demo",RE: OSN TV Movies Comedy
-http://bk.xiptv.network:80/live/freelist/freelist568/12431.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TV Movies Family" tvg-logo="" group-title="Demo",RE: OSN TV Movies Family
-http://bk.xiptv.network:80/live/freelist/freelist568/12430.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TV Movies Hollywood" tvg-logo="" group-title="Demo",RE: OSN TV Movies Hollywood
-http://bk.xiptv.network:80/live/freelist/freelist568/12429.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TV Movies Premiere" tvg-logo="" group-title="Demo",RE: OSN TV Movies Premiere
-http://bk.xiptv.network:80/live/freelist/freelist568/12428.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TV Yahala Aflam" tvg-logo="" group-title="Demo",RE: OSN TV Yahala Aflam
-http://bk.xiptv.network:80/live/freelist/freelist568/12427.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Woman" tvg-logo="" group-title="Demo",RE: OSN Woman
-http://bk.xiptv.network:80/live/freelist/freelist568/12426.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Yahala" tvg-logo="" group-title="Demo",RE: OSN Yahala
-http://bk.xiptv.network:80/live/freelist/freelist568/12425.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Yahala Bil Arabi" tvg-logo="" group-title="Demo",RE: OSN Yahala Bil Arabi
-http://bk.xiptv.network:80/live/freelist/freelist568/12424.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Al Safwa" tvg-logo="" group-title="Demo",RE: OSN Al Safwa
-http://bk.xiptv.network:80/live/freelist/freelist568/12423.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Al Yawm" tvg-logo="" group-title="Demo",RE: OSN Al Yawm
-http://bk.xiptv.network:80/live/freelist/freelist568/12422.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN TLC" tvg-logo="" group-title="Demo",RE: OSN TLC
-http://bk.xiptv.network:80/live/freelist/freelist568/12421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC SD" tvg-logo="" group-title="English Local",Bein AFC SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bein AFC 1 HD" tvg-logo="" group-title="English Local",Bein AFC 1 HD
@@ -1676,4 +1604,5 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11410.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11408.m3u8
+
 
