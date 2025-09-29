@@ -438,124 +438,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/188.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 4k 7 HD H265" tvg-logo="" group-title="Demo Live",SPO: beIN Sports 4k 7 HD H265
 http://bk.xiptv.network:80/live/freelist/freelist568/186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| ON SPORT SD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3792.jpg?23837" group-title="Arabic Sports",SP| ON SPORT SD ◉
-http://bk.xiptv.network:80/live/freelist/freelist568/13564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| ON SPORT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3792.jpg?23837" group-title="Arabic Sports",SP| ON SPORT 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| ON SPORT 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3792.jpg?23837" group-title="Arabic Sports",SP| ON SPORT 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| ON SPORT 2 SD ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3792.jpg?23837" group-title="Arabic Sports",SP| ON SPORT 2 SD ◉
-http://bk.xiptv.network:80/live/freelist/freelist568/13561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: AD SPORTS 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="Arabic Sports",VIP: AD SPORTS 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: AD SPORTS 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="Arabic Sports",VIP: AD SPORTS 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="VIP: AD SPORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/8129.jpg?72990" group-title="Arabic Sports",VIP: AD SPORTS 2 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Libya Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/577.jpg?ver=37872" group-title="Arabic Sports",SP| Libya Sport 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Libya Sport 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/577.jpg?ver=37872" group-title="Arabic Sports",SP| Libya Sport 1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Libya Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/577.jpg?ver=37872" group-title="Arabic Sports",SP| Libya Sport 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Libya Sport 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/577.jpg?ver=37872" group-title="Arabic Sports",SP| Libya Sport 2 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT-5-ARABIC-EVENT" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/11979.jpg?29669" group-title="Arabic Sports",SP| SPORT-5-ARABIC-EVENT
-http://bk.xiptv.network:80/live/freelist/freelist568/13553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Bahrain Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/514.jpg?12437" group-title="Arabic Sports",SP| Bahrain Sport 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Bahrain Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/513.jpg?ver=94309" group-title="Arabic Sports",SP| Bahrain Sport 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Racing 1 TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/578.jpg?43027" group-title="Arabic Sports",SP| Dubai Racing 1 TV 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Racing 1 TV HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/578.jpg?43027" group-title="Arabic Sports",SP| Dubai Racing 1 TV HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Racing 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/578.jpg?43027" group-title="Arabic Sports",SP| Dubai Racing 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Racing 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/578.jpg?43027" group-title="Arabic Sports",SP| Dubai Racing 3 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="Arabic Sports",SP| Dubai Sport 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Sport 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="Arabic Sports",SP| Dubai Sport 1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Dubai Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/576.png?76986" group-title="Arabic Sports",SP| Dubai Sport 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Iraqia Sport 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/570.jpg?63754" group-title="Arabic Sports",SP| Iraqia Sport 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Iraqia Sport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/570.jpg?63754" group-title="Arabic Sports",SP| Iraqia Sport HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Jordan Sport 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3930.png?26337" group-title="Arabic Sports",SP| Jordan Sport 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Jordan Sport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3930.png?26337" group-title="Arabic Sports",SP| Jordan Sport HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| KAS Sport 1 Plus" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/580.jpg?ver=81315" group-title="Arabic Sports",SP| KAS Sport 1 Plus
-http://bk.xiptv.network:80/live/freelist/freelist568/13539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Kuwait Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/552.png?36226" group-title="Arabic Sports",SP| Kuwait Sport 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Kuwait Sports 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/552.png?36226" group-title="Arabic Sports",SP| Kuwait Sports 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Nile Sport" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3792.jpg?23837" group-title="Arabic Sports",SP| Nile Sport
-http://bk.xiptv.network:80/live/freelist/freelist568/13536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Oman Sport TV 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/583.jpg?64661" group-title="Arabic Sports",SP| Oman Sport TV 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Palestine Sport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/579.jpg?ver=30418" group-title="Arabic Sports",SP| Palestine Sport HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| SHARJAH SPORT 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1360.jpg?93494" group-title="Arabic Sports",SP| SHARJAH SPORT 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| SHARJAH SPORT HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1360.jpg?93494" group-title="Arabic Sports",SP| SHARJAH SPORT HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Yas Sport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/568.jpg?86025" group-title="Arabic Sports",SP| Yas Sport HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Yas Sport 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/568.jpg?86025" group-title="Arabic Sports",SP| Yas Sport 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Zamalek Sports" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13404.png?16160" group-title="Arabic Sports",SP| Zamalek Sports
-http://bk.xiptv.network:80/live/freelist/freelist568/13528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Rabiaa Sport 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4726.jpg?28037" group-title="Arabic Sports",SP| Al Rabiaa Sport 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Rabiaa Sport HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4726.jpg?28037" group-title="Arabic Sports",SP| Al Rabiaa Sport HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Kass 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/557.png?54988" group-title="Arabic Sports",SP| Al Kass 1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Kass 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/558.png?31318" group-title="Arabic Sports",SP| Al Kass 2 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Kass 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3983.png?20448" group-title="Arabic Sports",SP| Al Kass 3 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Al Kass 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/566.png?8174" group-title="Arabic Sports",SP| Al Kass 4 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Saudia Sport 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2276.jpg?85184" group-title="Arabic Sports",SP| Saudia Sport 1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Saudia Sport 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/2276.jpg?93949" group-title="Arabic Sports",SP| Saudia Sport 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Saudia Sport 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3212.jpg?1050" group-title="Arabic Sports",SP| Saudia Sport 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Saudia Sport 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3217.jpg?2486" group-title="Arabic Sports",SP| Saudia Sport 3 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SP| Saudia Sport 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3217.jpg?88985" group-title="Arabic Sports",SP| Saudia Sport 3 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 1 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 1 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 2 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 2 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 2 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 3 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 3 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 3 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 4 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 4 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 4 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 5 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 5 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 5 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 6 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 6 4K
-http://bk.xiptv.network:80/live/freelist/freelist568/13506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="UEFA CHAMPIONS LEAGUE 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13347.jpg?ver=18026" group-title="Arabic Sports",UEFA CHAMPIONS LEAGUE 6 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/13505.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leb| AL Jadeed HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",Leb| AL Jadeed HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13390.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leb| AL Jadeed 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",Leb| AL Jadeed 4K ◉
@@ -1604,5 +1486,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11410.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11408.m3u8
+
 
 
