@@ -438,67 +438,67 @@ http://bk.xiptv.network:80/live/freelist/freelist568/188.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/187.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPO: beIN Sports 4k 7 HD H265" tvg-logo="" group-title="Demo Live",SPO: beIN Sports 4k 7 HD H265
 http://bk.xiptv.network:80/live/freelist/freelist568/186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| AL Jadeed HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",Leb| AL Jadeed HD
+#EXTINF:-1 tvg-id="" tvg-name="AL Jadeed HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",AL Jadeed HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| AL Jadeed 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",Leb| AL Jadeed 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="AL Jadeed 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/4.jpg?ver=77144" group-title="Leb",AL Jadeed 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| MTV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5.jpg" group-title="Leb",Leb| MTV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5.jpg" group-title="Leb",MTV Lebanon HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13388.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| MTV Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5.jpg" group-title="Leb",Leb| MTV Lebanon 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5.jpg" group-title="Leb",MTV Lebanon 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13387.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| AL MANAR ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1199.jpg" group-title="Leb",Leb| AL MANAR ◉
+#EXTINF:-1 tvg-id="" tvg-name="AL MANAR ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/1199.jpg" group-title="Leb",AL MANAR ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13386.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Tele Lebanon" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Leb| Tele Lebanon
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Tele Lebanon
 http://bk.xiptv.network:80/live/freelist/freelist568/13385.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Tele Lebanon 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Leb| Tele Lebanon 4K
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Tele Lebanon 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13384.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Tele Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Leb| Tele Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="Tele Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/10.jpg" group-title="Leb",Tele Lebanon HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13383.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| OTV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/269.jpg" group-title="Leb",Leb| OTV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="OTV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/269.jpg" group-title="Leb",OTV Lebanon HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13382.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| OTV Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/269.jpg" group-title="Leb",Leb| OTV Lebanon 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="OTV Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/269.jpg" group-title="Leb",OTV Lebanon 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13381.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| NBN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7.jpg?ver=31711" group-title="Leb",Leb| NBN HD
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7.jpg?ver=31711" group-title="Leb",NBN HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13380.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| NBN 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7.jpg?ver=31711" group-title="Leb",Leb| NBN 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="NBN 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/7.jpg?ver=31711" group-title="Leb",NBN 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13379.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC International 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13573.jpg?ver=87483" group-title="Leb",Leb| LBC International 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="LBC International 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13573.jpg?ver=87483" group-title="Leb",LBC International 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13378.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6.jpg" group-title="Leb",Leb| LBC 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="LBC 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/6.jpg" group-title="Leb",LBC 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13377.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC 4K" tvg-logo="" group-title="Leb",Leb| LBC 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC 4K" tvg-logo="" group-title="Leb",LBC 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13376.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC HD" tvg-logo="" group-title="Leb",Leb| LBC HD
+#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="" group-title="Leb",LBC HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13375.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC SAT" tvg-logo="" group-title="Leb",Leb| LBC SAT
+#EXTINF:-1 tvg-id="" tvg-name="LBC SAT" tvg-logo="" group-title="Leb",LBC SAT
 http://bk.xiptv.network:80/live/freelist/freelist568/13374.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC2 4K" tvg-logo="" group-title="Leb",Leb| LBC2 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC2 4K" tvg-logo="" group-title="Leb",LBC2 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13373.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC2 HD" tvg-logo="" group-title="Leb",Leb| LBC2 HD
+#EXTINF:-1 tvg-id="" tvg-name="LBC2 HD" tvg-logo="" group-title="Leb",LBC2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13372.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC 3 4K" tvg-logo="" group-title="Leb",Leb| LBC 3 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC 3 4K" tvg-logo="" group-title="Leb",LBC 3 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13371.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC 3 HD" tvg-logo="" group-title="Leb",Leb| LBC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="LBC 3 HD" tvg-logo="" group-title="Leb",LBC 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC INTERNATIONAL 4K" tvg-logo="" group-title="Leb",Leb| LBC INTERNATIONAL 4K
+#EXTINF:-1 tvg-id="" tvg-name="LBC INTERNATIONAL 4K" tvg-logo="" group-title="Leb",LBC INTERNATIONAL 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13369.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LBC INTERNATIONAL HD" tvg-logo="" group-title="Leb",Leb| LBC INTERNATIONAL HD
+#EXTINF:-1 tvg-id="" tvg-name="LBC INTERNATIONAL HD" tvg-logo="" group-title="Leb",LBC INTERNATIONAL HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13368.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| LDC Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12.jpg" group-title="Leb",Leb| LDC Lebanon 4K ◉
+#EXTINF:-1 tvg-id="" tvg-name="LDC Lebanon 4K ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12.jpg" group-title="Leb",LDC Lebanon 4K ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13367.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| One TV Lebanon 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5018.png" group-title="Leb",Leb| One TV Lebanon 4K
+#EXTINF:-1 tvg-id="" tvg-name="One TV Lebanon 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5018.png" group-title="Leb",One TV Lebanon 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13366.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| One TV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5018.png" group-title="Leb",Leb| One TV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="One TV Lebanon HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/5018.png" group-title="Leb",One TV Lebanon HD
 http://bk.xiptv.network:80/live/freelist/freelist568/13365.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Hala London Production 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13100.jpg?43023" group-title="Leb",Leb| Hala London Production 4K
+#EXTINF:-1 tvg-id="" tvg-name="Hala London Production 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/13100.jpg?43023" group-title="Leb",Hala London Production 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/13364.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| iFilm Arabic" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/399.jpg?23576" group-title="Leb",Leb| iFilm Arabic
+#EXTINF:-1 tvg-id="" tvg-name="iFilm Arabic" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/399.jpg?23576" group-title="Leb",iFilm Arabic
 http://bk.xiptv.network:80/live/freelist/freelist568/13363.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Taqallyn TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/501.jpg" group-title="Leb",Leb| Taqallyn TV
+#EXTINF:-1 tvg-id="" tvg-name="Taqallyn TV" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/501.jpg" group-title="Leb",Taqallyn TV
 http://bk.xiptv.network:80/live/freelist/freelist568/13362.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Al Ithad ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/274.jpg" group-title="Leb",Leb| Al Ithad ◉
+#EXTINF:-1 tvg-id="" tvg-name="Al Ithad ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/274.jpg" group-title="Leb",Al Ithad ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13361.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Leb| Al Mayadeen ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/37.jfif?ver=49046" group-title="Leb",Leb| Al Mayadeen ◉
+#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen ◉" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/37.jfif?ver=49046" group-title="Leb",Al Mayadeen ◉
 http://bk.xiptv.network:80/live/freelist/freelist568/13360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rotana" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/46.jpg" group-title="ROTANA",Rotana
 http://bk.xiptv.network:80/live/freelist/freelist568/13031.m3u8
@@ -636,13 +636,13 @@ http://bk.xiptv.network:80/live/freelist/freelist568/12965.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/12964.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News | Al Hurra HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/441.jpg" group-title="NEWS",News | Al Hurra HD
 http://bk.xiptv.network:80/live/freelist/freelist568/12963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON TIME SPORTS SD" tvg-logo="" group-title="OSN Local",AR: ON TIME SPORTS SD
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS SD" tvg-logo="" group-title="OSN Local",ON TIME SPORTS SD
 http://bk.xiptv.network:80/live/freelist/freelist568/12773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON TIME SPORTS 2 SD" tvg-logo="" group-title="OSN Local",AR: ON TIME SPORTS 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 2 SD" tvg-logo="" group-title="OSN Local",ON TIME SPORTS 2 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/12772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON TIME SPORTS Low" tvg-logo="" group-title="OSN Local",AR: ON TIME SPORTS Low
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS Low" tvg-logo="" group-title="OSN Local",ON TIME SPORTS Low
 http://bk.xiptv.network:80/live/freelist/freelist568/12771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: ON TIME SPORTS 2 Low" tvg-logo="" group-title="OSN Local",AR: ON TIME SPORTS 2 Low
+#EXTINF:-1 tvg-id="" tvg-name="ON TIME SPORTS 2 Low" tvg-logo="" group-title="OSN Local",ON TIME SPORTS 2 Low
 http://bk.xiptv.network:80/live/freelist/freelist568/12770.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA beIN 1 XTRA HD" tvg-logo="" group-title="OSN Local",UEFA beIN 1 XTRA HD
 http://bk.xiptv.network:80/live/freelist/freelist568/12769.m3u8
@@ -762,173 +762,173 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11588.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 9 4K (LIVE EVENT ONLY)" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/3915.png?98326" group-title="Bein 4K",SPO: Al Kass 9 4K (LIVE EVENT ONLY)
 http://bk.xiptv.network:80/live/freelist/freelist568/11586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NEWS ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NEWS ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NEWS ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NEWS ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11585.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS GLOBAL ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS GLOBAL ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS GLOBAL ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS GLOBAL ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11584.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11579.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11578.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 4 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 4 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 4 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 4 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11577.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 5 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 5 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 5 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 5 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11576.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 6 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 6 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 6 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 6 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11575.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 7 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 7 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 7 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 7 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 8 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 8 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 8 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 8 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 9 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 9 ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 9 ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 9 ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11572.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 XTRA ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 XTRA ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11571.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 XTRA ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 XTRA ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11570.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 XTRA ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 XTRA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 XTRA ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 ENGLISH ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 ENGLISH ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 ENGLISH ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 ENGLISH ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 ENGLISH ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 ENGLISH ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 ENGLISH ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 ENGLISH ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 FRANCE ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 FRANCE ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11566.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 FRANCE ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 FRANCE ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11565.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 FRANCE ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 FRANCE ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 FRANCE ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11564.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NBA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NBA ULTRA 4K
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NBA ULTRA 4K" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NBA ULTRA 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11563.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11562.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11561.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11560.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 4 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 4 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 4 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 4 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11559.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 5 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 5 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 5 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 5 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11558.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 6 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 6 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 6 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 6 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11557.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 7 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 7 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 7 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 7 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11556.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 8 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 8 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 8 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 9 HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 9 HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 9 HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 XTRA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 XTRA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 XTRA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 XTRA HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 XTRA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 XTRA HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 XTRA HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 XTRA HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 ENGLISH HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 ENGLISH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 ENGLISH HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 ENGLISH HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 ENGLISH HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 ENGLISH HEVC
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 ENGLISH HEVC" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 ENGLISH HEVC
 http://bk.xiptv.network:80/live/freelist/freelist568/11549.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NEWS HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NEWS HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS GLOBAL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS GLOBAL HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS GLOBAL HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS GLOBAL HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11547.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11546.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 4 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 4 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 5 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 5 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 6 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 6 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 7 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 7 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 7 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 8 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 8 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 8 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 9 HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 9 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 XTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 XTRA HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 XTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 XTRA HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 XTRA HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 XTRA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 XTRA HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 ENGLISH HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 ENGLISH HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 ENGLISH HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 ENGLISH HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11533.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11532.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 FRANCE HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NBA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NBA HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NBA HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NBA HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NEWS SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NEWS SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NEWS SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NEWS SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11528.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS GLOBAL SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS GLOBAL SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS GLOBAL SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS GLOBAL SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11527.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11526.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11524.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 4 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 4 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 4 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11523.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 5 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 5 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 5 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11522.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 6 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 6 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 6 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11521.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 7 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 7 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 7 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 8 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 8 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 8 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 8 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 9 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 9 SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 9 SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 9 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11518.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 XTRA SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 XTRA SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11517.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 XTRA SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 XTRA SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11516.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 XTRA SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 XTRA SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 XTRA SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 ENGLISH SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 ENGLISH SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 ENGLISH SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 ENGLISH SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11514.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 ENGLISH SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 ENGLISH SD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 ENGLISH SD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 ENGLISH SD
 http://bk.xiptv.network:80/live/freelist/freelist568/11513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS NEWS LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS NEWS LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS NEWS LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS NEWS LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS GLOBAL LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS GLOBAL LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS GLOBAL LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS GLOBAL LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11510.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 4 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 4 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 4 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 4 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 5 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 5 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 5 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 5 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11506.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 6 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 6 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 6 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 6 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11505.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 7 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 7 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 7 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 7 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11504.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 8 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 8 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 8 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 8 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11503.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 9 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 9 LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 9 LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 9 LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11502.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 1 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 1 XTRA LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 1 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 1 XTRA LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 2 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 2 XTRA LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 2 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 2 XTRA LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPOORTS 3 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPOORTS 3 XTRA LQ
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPOORTS 3 XTRA LQ" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPOORTS 3 XTRA LQ
 http://bk.xiptv.network:80/live/freelist/freelist568/11499.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SPORTS AFC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",AR: beIN SPORTS AFC HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS AFC HD" tvg-logo="http://icon-tmdb.me/stalker_portal/misc/logos/320/12782.png?95032" group-title="Bein 4K",beIN SPORTS AFC HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11483.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Offline" tvg-logo="" group-title="English Local",Offline
 http://bk.xiptv.network:80/live/freelist/freelist568/11481.m3u8
@@ -988,7 +988,7 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11137.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11136.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="G | BEIN SPORTS 8 FHD" tvg-logo="" group-title="English Local",G | BEIN SPORTS 8 FHD
 http://bk.xiptv.network:80/live/freelist/freelist568/11135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: Helwa TV 4K" tvg-logo="" group-title="English Local",AR: Helwa TV 4K
+#EXTINF:-1 tvg-id="" tvg-name="Helwa TV 4K" tvg-logo="" group-title="English Local",Helwa TV 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| SP | SSC 1 4K" tvg-logo="" group-title="English Local",| SP | SSC 1 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11066.m3u8
@@ -1048,11 +1048,11 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11010.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN SPO 9 SD | F |" tvg-logo="" group-title="English Local",beIN SPO 9 SD | F |
 http://bk.xiptv.network:80/live/freelist/freelist568/11008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vip: beIN SP⚽RTS 1 FRANCE HD" tvg-logo="" group-title="English Local",Vip: beIN SP⚽RTS 1 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SP⚽RTS 1 FRANCE HD" tvg-logo="" group-title="English Local",beIN SP⚽RTS 1 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/10996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vip: beIN SP⚽RTS 2 FRANCE HD" tvg-logo="" group-title="English Local",Vip: beIN SP⚽RTS 2 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SP⚽RTS 2 FRANCE HD" tvg-logo="" group-title="English Local",beIN SP⚽RTS 2 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/10995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vip: beIN SP⚽RTS 3 FRANCE HD" tvg-logo="" group-title="English Local",Vip: beIN SP⚽RTS 3 FRANCE HD
+#EXTINF:-1 tvg-id="" tvg-name="beIN SP⚽RTS 3 FRANCE HD" tvg-logo="" group-title="English Local",beIN SP⚽RTS 3 FRANCE HD
 http://bk.xiptv.network:80/live/freelist/freelist568/10994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="OSN Baby TV" tvg-logo="" group-title="English Local",OSN Baby TV
 http://bk.xiptv.network:80/live/freelist/freelist568/10922.m3u8
@@ -1248,13 +1248,13 @@ http://bk.xiptv.network:80/live/freelist/freelist568/8767.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/8766.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC Extra 3 H265" tvg-logo="" group-title="SSC + STARZ",SSC Extra 3 H265
 http://bk.xiptv.network:80/live/freelist/freelist568/8765.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport SD 1" tvg-logo="" group-title="English Local",Sport | Ar: On Time Sport SD 1
+#EXTINF:-1 tvg-id="" tvg-name="Sport | On Time Sport SD 1" tvg-logo="" group-title="English Local",Sport | On Time Sport SD 1
 http://bk.xiptv.network:80/live/freelist/freelist568/8762.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport SD 2" tvg-logo="" group-title="English Local",Sport | Ar: On Time Sport SD 2
+#EXTINF:-1 tvg-id="" tvg-name="Sport | On Time Sport SD 2" tvg-logo="" group-title="English Local",Sport | On Time Sport SD 2
 http://bk.xiptv.network:80/live/freelist/freelist568/8761.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport LOW 1" tvg-logo="" group-title="English Local",Sport | Ar: On Time Sport LOW 1
+#EXTINF:-1 tvg-id="" tvg-name="Sport | On Time Sport LOW 1" tvg-logo="" group-title="English Local",Sport | On Time Sport LOW 1
 http://bk.xiptv.network:80/live/freelist/freelist568/8759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport | Ar: On Time Sport LOW 2" tvg-logo="" group-title="English Local",Sport | Ar: On Time Sport LOW 2
+#EXTINF:-1 tvg-id="" tvg-name="Sport | On Time Sport LOW 2" tvg-logo="" group-title="English Local",Sport | On Time Sport LOW 2
 http://bk.xiptv.network:80/live/freelist/freelist568/8758.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="English Local",ES: #0 FHD
 http://bk.xiptv.network:80/live/freelist/freelist568/8756.m3u8
@@ -1348,53 +1348,53 @@ http://bk.xiptv.network:80/live/freelist/freelist568/7649.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/7648.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AD Sport Asia 2 SD" tvg-logo="" group-title="SSC + STARZ",AD Sport Asia 2 SD
 http://bk.xiptv.network:80/live/freelist/freelist568/7647.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ORF 1 HD" tvg-logo="" group-title="English Local",At: ORF 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF 1 HD" tvg-logo="" group-title="English Local",ORF 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7349.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ORF 2 HD" tvg-logo="" group-title="English Local",At: ORF 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2 HD" tvg-logo="" group-title="English Local",ORF 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7348.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ORF 2 Wien" tvg-logo="" group-title="English Local",At: ORF 2 Wien
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2 Wien" tvg-logo="" group-title="English Local",ORF 2 Wien
 http://bk.xiptv.network:80/live/freelist/freelist568/7347.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ORF 3 HD" tvg-logo="" group-title="English Local",At: ORF 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF 3 HD" tvg-logo="" group-title="English Local",ORF 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7346.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Puls 4 HD" tvg-logo="" group-title="English Local",At: Puls 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="Puls 4 HD" tvg-logo="" group-title="English Local",Puls 4 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7345.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Puls 24 HD" tvg-logo="" group-title="English Local",At: Puls 24 HD
+#EXTINF:-1 tvg-id="" tvg-name="Puls 24 HD" tvg-logo="" group-title="English Local",Puls 24 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7344.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Sat 1 TV" tvg-logo="" group-title="English Local",At: Sat 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1 TV" tvg-logo="" group-title="English Local",Sat 1 TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7343.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Servus TV" tvg-logo="" group-title="English Local",At: Servus TV
+#EXTINF:-1 tvg-id="" tvg-name="Servus TV" tvg-logo="" group-title="English Local",Servus TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7342.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Vox HD" tvg-logo="" group-title="English Local",At: Vox HD
+#EXTINF:-1 tvg-id="" tvg-name="Vox HD" tvg-logo="" group-title="English Local",Vox HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7341.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: RTL 1 HD" tvg-logo="" group-title="English Local",At: RTL 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTL 1 HD" tvg-logo="" group-title="English Local",RTL 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: RTL 2 HD" tvg-logo="" group-title="English Local",At: RTL 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2 HD" tvg-logo="" group-title="English Local",RTL 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7339.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ATV 2 HD" tvg-logo="" group-title="English Local",At: ATV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="ATV 2 HD" tvg-logo="" group-title="English Local",ATV 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: N24 Doku TV" tvg-logo="" group-title="English Local",At: N24 Doku TV
+#EXTINF:-1 tvg-id="" tvg-name="N24 Doku TV" tvg-logo="" group-title="English Local",N24 Doku TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7337.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Dmax HD" tvg-logo="" group-title="English Local",At: Dmax HD
+#EXTINF:-1 tvg-id="" tvg-name="Dmax HD" tvg-logo="" group-title="English Local",Dmax HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7336.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: R9 TV" tvg-logo="" group-title="English Local",At: R9 TV
+#EXTINF:-1 tvg-id="" tvg-name="R9 TV" tvg-logo="" group-title="English Local",R9 TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ATV  HD" tvg-logo="" group-title="English Local",At: ATV  HD
+#EXTINF:-1 tvg-id="" tvg-name="ATV  HD" tvg-logo="" group-title="English Local",ATV  HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7334.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Sixx HD" tvg-logo="" group-title="English Local",At: Sixx HD
+#EXTINF:-1 tvg-id="" tvg-name="Sixx HD" tvg-logo="" group-title="English Local",Sixx HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7333.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Nickelodeon HD" tvg-logo="" group-title="English Local",At: Nickelodeon HD
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="" group-title="English Local",Nickelodeon HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7332.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AT: MELODIE TV" tvg-logo="" group-title="English Local",AT: MELODIE TV
+#EXTINF:-1 tvg-id="" tvg-name="MELODIE TV" tvg-logo="" group-title="English Local",MELODIE TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7331.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Krone Hit TV HD" tvg-logo="" group-title="English Local",At: Krone Hit TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Krone Hit TV HD" tvg-logo="" group-title="English Local",Krone Hit TV HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7330.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Oe24 TV" tvg-logo="" group-title="English Local",At: Oe24 TV
+#EXTINF:-1 tvg-id="" tvg-name="Oe24 TV" tvg-logo="" group-title="English Local",Oe24 TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Baden TV" tvg-logo="" group-title="English Local",At: Baden TV
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV" tvg-logo="" group-title="English Local",Baden TV
 http://bk.xiptv.network:80/live/freelist/freelist568/7328.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: ORF Sport Plus HD" tvg-logo="" group-title="English Local",At: ORF Sport Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="ORF Sport Plus HD" tvg-logo="" group-title="English Local",ORF Sport Plus HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="At: Sky Sport Austria 1 HD" tvg-logo="" group-title="English Local",At: Sky Sport Austria 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD" tvg-logo="" group-title="English Local",Sky Sport Austria 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids:  Cartoon Network Arabia HD" tvg-logo="" group-title="Local Arab",Kids:  Cartoon Network Arabia HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1944.m3u8
@@ -1412,7 +1412,7 @@ http://bk.xiptv.network:80/live/freelist/freelist568/1939.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/1938.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids:  Disney Junior HD" tvg-logo="" group-title="Local Arab",Kids:  Disney Junior HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1937.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids | Ar: NickToons HD" tvg-logo="" group-title="Local Arab",Kids | Ar: NickToons HD
+#EXTINF:-1 tvg-id="" tvg-name="Kids | NickToons HD" tvg-logo="" group-title="Local Arab",Kids | NickToons HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1936.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids:  Disney Channel HD" tvg-logo="" group-title="Local Arab",Kids:  Disney Channel HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1935.m3u8
@@ -1486,41 +1486,41 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11410.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| عبد الحليم حافظ 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| عبد الحليم حافظ 1
+#EXTINF:-1 tvg-id="" tvg-name="عبد الحليم حافظ 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",عبد الحليم حافظ 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| عمرو دياب 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| عمرو دياب 1
+#EXTINF:-1 tvg-id="" tvg-name="عمرو دياب 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",عمرو دياب 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| نانسي عجرم 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| نانسي عجرم 1
+#EXTINF:-1 tvg-id="" tvg-name="نانسي عجرم 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",نانسي عجرم 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| صباح فخري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| صباح فخري 1
+#EXTINF:-1 tvg-id="" tvg-name="صباح فخري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",صباح فخري 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| فيروز 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| فيروز 1
+#EXTINF:-1 tvg-id="" tvg-name="فيروز 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",فيروز 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| وائل جسار 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| وائل جسار 1
+#EXTINF:-1 tvg-id="" tvg-name="وائل جسار 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وائل جسار 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| وائل كفوري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| وائل كفوري 1
+#EXTINF:-1 tvg-id="" tvg-name="وائل كفوري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وائل كفوري 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| وردة الجزائرية 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| وردة الجزائرية 1
+#EXTINF:-1 tvg-id="" tvg-name="وردة الجزائرية 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وردة الجزائرية 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| أم كلثوم 1‎" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| أم كلثوم 1‎
+#EXTINF:-1 tvg-id="" tvg-name="أم كلثوم 1‎" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",أم كلثوم 1‎
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| اغاني كردستان تكون حلوة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| اغاني كردستان تكون حلوة 1
+#EXTINF:-1 tvg-id="" tvg-name="اغاني كردستان تكون حلوة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اغاني كردستان تكون حلوة 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| اليسا 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| اليسا 1
+#EXTINF:-1 tvg-id="" tvg-name="اليسا 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اليسا 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| اليسا 2" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| اليسا 2
+#EXTINF:-1 tvg-id="" tvg-name="اليسا 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اليسا 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| ام كلثوم 2" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| ام كلثوم 2
+#EXTINF:-1 tvg-id="" tvg-name="ام كلثوم 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",ام كلثوم 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| جورج وسوف 2" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| جورج وسوف 2
+#EXTINF:-1 tvg-id="" tvg-name="جورج وسوف 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",جورج وسوف 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| راغب علامة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| راغب علامة 1
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| راغب علامة 2" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| راغب علامة 2
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 2
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| راغب علامة 3" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| راغب علامة 3
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 3" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 3
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC| رامي عياش 1" tvg-logo="https://lo1.in/ar/music.png" group-title="►AR | SHAHID VIP",MUSIC| رامي عياش 1
+#EXTINF:-1 tvg-id="" tvg-name="رامي عياش 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",رامي عياش 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669487.m3u8
 #EXTINF:-1 tvg-id="Disney HD ARB" tvg-name="OSN Disney Channel HD QA" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="OSN - Qatar ARB",OSN Disney Channel HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98000.m3u8
@@ -1800,6 +1800,3 @@ http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2414.m3u8
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2412.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Al Jadeed ARB" tvg-logo="" group-title="ARB Lebanon",Al Jadeed ARB
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/5032.m3u8
-
-
-
