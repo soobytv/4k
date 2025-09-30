@@ -1006,10 +1006,18 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11046.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="| SP | SSC Extra 3 4K" tvg-logo="" group-title="English Local",| SP | SSC Extra 3 4K
 http://bk.xiptv.network:80/live/freelist/freelist568/11038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV Live SD" tvg-logo="" group-title="English Local",Apple TV Live SD
-http://bk.xiptv.network:80/live/freelist/freelist568/11028.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apple TV Live 720P" tvg-logo="" group-title="English Local",Apple TV Live 720P
-http://bk.xiptv.network:80/live/freelist/freelist568/11027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Future TV Lebanon ARB" tvg-logo="" group-title="ARB Lebanon",Future TV Lebanon ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128962.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-logo="" group-title="ARB Lebanon",Tele Liban ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3465.m3u8
+#EXTINF:-1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-logo="" group-title="ARB Lebanon",MTV Lebanon ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2411.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV ARB" tvg-logo="" group-title="ARB Lebanon",Lebanon TV ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2414.m3u8
+#EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC ARB" tvg-logo="" group-title="ARB Lebanon",LBC ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2412.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed ARB" tvg-logo="" group-title="ARB Lebanon",Al Jadeed ARB
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/5032.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 HD" tvg-logo="" group-title="English Local",beIN Sports English 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11026.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 FHD" tvg-logo="" group-title="English Local",beIN Sports English 1 FHD
@@ -1202,18 +1210,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/10672.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/10671.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN Sport Premim 2 HD" tvg-logo="" group-title="English Local",BEIN Sport Premim 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/10670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Sama TV ✦" tvg-logo="" group-title="English Local",Sy| Sama TV ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Sama TV Plus ✦" tvg-logo="" group-title="English Local",Sy| Sama TV Plus ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Lana TV HD ✦" tvg-logo="" group-title="English Local",Sy| Lana TV HD ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10665.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Lana TV 4K ✦" tvg-logo="" group-title="English Local",Sy| Lana TV 4K ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Lana TV SD ✦" tvg-logo="" group-title="English Local",Sy| Lana TV SD ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sy| Al Khabar TV ✦" tvg-logo="" group-title="English Local",Sy| Al Khabar TV ✦
-http://bk.xiptv.network:80/live/freelist/freelist568/10662.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="osn discovery id sd" tvg-logo="" group-title="English Local",osn discovery id sd
 http://bk.xiptv.network:80/live/freelist/freelist568/8790.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC SD1" tvg-logo="" group-title="SSC + STARZ",SSC SD1
@@ -1256,8 +1252,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/8761.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/8759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport | On Time Sport LOW 2" tvg-logo="" group-title="English Local",Sport | On Time Sport LOW 2
 http://bk.xiptv.network:80/live/freelist/freelist568/8758.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES: #0 FHD" tvg-logo="" group-title="English Local",ES: #0 FHD
-http://bk.xiptv.network:80/live/freelist/freelist568/8756.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rabiaa SPORTS SD" tvg-logo="" group-title="Local Arab",Rabiaa SPORTS SD
 http://bk.xiptv.network:80/live/freelist/freelist568/922.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pt|| Sport TV 2 SD" tvg-logo="" group-title="Local Arab",Pt|| Sport TV 2 SD
@@ -1396,25 +1390,25 @@ http://bk.xiptv.network:80/live/freelist/freelist568/7328.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/7327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria 1 HD" tvg-logo="" group-title="English Local",Sky Sport Austria 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/7326.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  Cartoon Network Arabia HD" tvg-logo="" group-title="Local Arab",Kids:  Cartoon Network Arabia HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Arabia HD" tvg-logo="" group-title="Local Arab",Cartoon Network Arabia HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  BeIN Baraem HD" tvg-logo="" group-title="Local Arab",Kids:  BeIN Baraem HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Baraem HD" tvg-logo="" group-title="Local Arab",BeIN Baraem HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  BeIN Jeem HD" tvg-logo="" group-title="Local Arab",Kids:  BeIN Jeem HD
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Jeem HD" tvg-logo="" group-title="Local Arab",BeIN Jeem HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  SpaceToon TV" tvg-logo="" group-title="Local Arab",Kids:  SpaceToon TV
+#EXTINF:-1 tvg-id="" tvg-name="SpaceToon TV" tvg-logo="" group-title="Local Arab",SpaceToon TV
 http://bk.xiptv.network:80/live/freelist/freelist568/1941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  Sanafir" tvg-logo="" group-title="Local Arab",Kids:  Sanafir
+#EXTINF:-1 tvg-id="" tvg-name="Sanafir" tvg-logo="" group-title="Local Arab",Sanafir
 http://bk.xiptv.network:80/live/freelist/freelist568/1940.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  Karamesh" tvg-logo="" group-title="Local Arab",Kids:  Karamesh
+#EXTINF:-1 tvg-id="" tvg-name="Karamesh" tvg-logo="" group-title="Local Arab",Karamesh
 http://bk.xiptv.network:80/live/freelist/freelist568/1939.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  OSN Kids Zone HD" tvg-logo="" group-title="Local Arab",Kids:  OSN Kids Zone HD
+#EXTINF:-1 tvg-id="" tvg-name="OSN Kids Zone HD" tvg-logo="" group-title="Local Arab",OSN Kids Zone HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1938.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  Disney Junior HD" tvg-logo="" group-title="Local Arab",Kids:  Disney Junior HD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior HD" tvg-logo="" group-title="Local Arab",Disney Junior HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1937.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids | NickToons HD" tvg-logo="" group-title="Local Arab",Kids | NickToons HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1936.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kids:  Disney Channel HD" tvg-logo="" group-title="Local Arab",Kids:  Disney Channel HD
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" group-title="Local Arab",Disney Channel HD
 http://bk.xiptv.network:80/live/freelist/freelist568/1935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Duck TV" tvg-logo="" group-title="Local Arab",Kids: Duck TV
 http://bk.xiptv.network:80/live/freelist/freelist568/1934.m3u8
@@ -1470,333 +1464,319 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11392.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apple TV Live 1080P " tvg-logo="" group-title="English Local",Apple TV Live 1080P 
 http://bk.xiptv.network:80/live/freelist/freelist568/11407.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC 1 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 1 HD" tvg-logo="" group-title="SSC + STARZ",SSC 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11415.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC 2 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 2 HD" tvg-logo="" group-title="SSC + STARZ",SSC 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11414.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC 3 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 3 HD" tvg-logo="" group-title="SSC + STARZ",SSC 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11413.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC 4 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 4 HD" tvg-logo="" group-title="SSC + STARZ",SSC 4 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC 5 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC 5 HD" tvg-logo="" group-title="SSC + STARZ",SSC 5 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 1 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 1 HD" tvg-logo="" group-title="SSC + STARZ",SSC EXTRA 1 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11410.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 2 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 2 HD" tvg-logo="" group-title="SSC + STARZ",SSC EXTRA 2 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11409.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[XVIP] SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",[XVIP] SSC EXTRA 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",SSC EXTRA 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="عبد الحليم حافظ 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",عبد الحليم حافظ 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669545.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="عمرو دياب 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",عمرو دياب 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="نانسي عجرم 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",نانسي عجرم 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669543.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="صباح فخري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",صباح فخري 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669542.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="فيروز 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",فيروز 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669541.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="وائل جسار 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وائل جسار 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669540.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="وائل كفوري 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وائل كفوري 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669539.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="وردة الجزائرية 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",وردة الجزائرية 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="أم كلثوم 1‎" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",أم كلثوم 1‎
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="اغاني كردستان تكون حلوة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اغاني كردستان تكون حلوة 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669520.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="اليسا 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اليسا 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669513.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="اليسا 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",اليسا 2
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ام كلثوم 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",ام كلثوم 2
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669511.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="جورج وسوف 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",جورج وسوف 2
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669496.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669491.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 2" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 2
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669490.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 3" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",راغب علامة 3
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669489.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="رامي عياش 1" tvg-logo="https://lo1.in/ar/music.png" group-title="SHAHID VIP",رامي عياش 1
-http://extraott-iptv.com:88/live/0229477349/8104258135/401669487.m3u8
-#EXTINF:-1 tvg-id="Disney HD ARB" tvg-name="OSN Disney Channel HD QA" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="OSN - Qatar ARB",OSN Disney Channel HD QA
+#EXTINF:-1 tvg-id="Disney HD ARB" tvg-name="OSN Disney Channel HD QA" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="OSNARB",OSN Disney Channel HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98000.m3u8
-#EXTINF:-1 tvg-id="Disney Junior ARB" tvg-name="OSN Disney Junior HD QA" tvg-logo="http://tugapt.com/picons/disneyjunior.png" group-title="OSN - Qatar ARB",OSN Disney Junior HD QA
+#EXTINF:-1 tvg-id="Disney Junior ARB" tvg-name="OSN Disney Junior HD QA" tvg-logo="http://tugapt.com/picons/disneyjunior.png" group-title="OSNARB",OSN Disney Junior HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN Woman FHD QA" tvg-logo="" group-title="OSN - Qatar ARB",OSN Woman FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="OSN Woman FHD QA" tvg-logo="" group-title="OSNARB",OSN Woman FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97998.m3u8
-#EXTINF:-1 tvg-id="Nick Jr ARB" tvg-name="OSN Nick Jr HD QA" tvg-logo="http://tugapt.com/picons/nickjr.png" group-title="OSN - Qatar ARB",OSN Nick Jr HD QA
+#EXTINF:-1 tvg-id="Nick Jr ARB" tvg-name="OSN Nick Jr HD QA" tvg-logo="http://tugapt.com/picons/nickjr.png" group-title="OSNARB",OSN Nick Jr HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97997.m3u8
-#EXTINF:-1 tvg-id="NickToons HD ARB" tvg-name="OSN Nick Toon HD QA" tvg-logo="http://tugapt.com/picons/nicktoons.png" group-title="OSN - Qatar ARB",OSN Nick Toon HD QA
+#EXTINF:-1 tvg-id="NickToons HD ARB" tvg-name="OSN Nick Toon HD QA" tvg-logo="http://tugapt.com/picons/nicktoons.png" group-title="OSNARB",OSN Nick Toon HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97996.m3u8
-#EXTINF:-1 tvg-id="OSN Kid Zone TV ARB" tvg-name="OSN Kids Zone HD QA" tvg-logo="http://tugapt.com/picons/osnkidszone.png" group-title="OSN - Qatar ARB",OSN Kids Zone HD QA
+#EXTINF:-1 tvg-id="OSN Kid Zone TV ARB" tvg-name="OSN Kids Zone HD QA" tvg-logo="http://tugapt.com/picons/osnkidszone.png" group-title="OSNARB",OSN Kids Zone HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97995.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon HD ARB" tvg-name="OSN Nickelodeon HD QA" tvg-logo="http://tugapt.com/picons/nickelodeon.png" group-title="OSN - Qatar ARB",OSN Nickelodeon HD QA
+#EXTINF:-1 tvg-id="Nickelodeon HD ARB" tvg-name="OSN Nickelodeon HD QA" tvg-logo="http://tugapt.com/picons/nickelodeon.png" group-title="OSNARB",OSN Nickelodeon HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Baraem HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem HD QA" tvg-logo="" group-title="QatarARB",beIN Baraem HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Baraem FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Baraem FHD QA" tvg-logo="" group-title="QatarARB",beIN Baraem FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="beIN - Qatar ARB",beIN BBC Earth HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="QatarARB",beIN BBC Earth HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth FHD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="beIN - Qatar ARB",beIN BBC Earth FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN BBC Earth FHD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/new-zealand/bbc-earth-nz.png" group-title="QatarARB",beIN BBC Earth FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Be Junior QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Be Junior QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Be Junior QA" tvg-logo="" group-title="QatarARB",beIN Be Junior QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Drama 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Drama 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Drama 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Drama 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Drama 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN FataFeat HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN FataFeat HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN FataFeat HD QA" tvg-logo="" group-title="QatarARB",beIN FataFeat HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN FataFeat FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN FataFeat FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN FataFeat FHD QA" tvg-logo="" group-title="QatarARB",beIN FataFeat FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Crime HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime HD QA" tvg-logo="" group-title="QatarARB",beIN Fox Crime HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Crime FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Crime FHD QA" tvg-logo="" group-title="QatarARB",beIN Fox Crime FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Life HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life HD QA" tvg-logo="" group-title="QatarARB",beIN Fox Life HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Life FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Life FHD QA" tvg-logo="" group-title="QatarARB",beIN Fox Life FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Action HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Movies Action HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Action HD QA" tvg-logo="" group-title="QatarARB",beIN Fox Movies Action HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Action FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Movies Action FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies Action FHD QA" tvg-logo="" group-title="QatarARB",beIN Fox Movies Action FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Movies HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies HD QA" tvg-logo="" group-title="QatarARB",beIN Fox Movies HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Fox Movies FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Fox Movies FHD QA" tvg-logo="" group-title="QatarARB",beIN Fox Movies FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Star Movies HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Star Movies HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Star Movies HD QA" tvg-logo="" group-title="QatarARB",beIN Star Movies HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Star World HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Star World HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Star World HD QA" tvg-logo="" group-title="QatarARB",beIN Star World HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Gourmet HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet HD QA" tvg-logo="" group-title="QatarARB",beIN Gourmet HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Gourmet FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet FHD QA" tvg-logo="" group-title="QatarARB",beIN Gourmet FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Jeem HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem HD QA" tvg-logo="" group-title="QatarARB",beIN Jeem HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Jeem FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Jeem FHD QA" tvg-logo="" group-title="QatarARB",beIN Jeem FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Movies 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Movies 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Movies 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Movies 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Movies 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Movies 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 4 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 HD QA" tvg-logo="" group-title="QatarARB",beIN Movies 4 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Movies 4 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Movies 4 FHD QA" tvg-logo="" group-title="QatarARB",beIN Movies 4 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="beIN - Qatar ARB",beIN Nat Geo HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-uk.png" group-title="QatarARB",beIN Nat Geo HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo People HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Nat Geo People HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo People HD QA" tvg-logo="" group-title="QatarARB",beIN Nat Geo People HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo Wild HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="beIN - Qatar ARB",beIN Nat Geo Wild HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo Wild HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="QatarARB",beIN Nat Geo Wild HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Series 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Series 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Series 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Series 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Series 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Series 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Series 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Series 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Series 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports News HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports News HD QA" tvg-logo="" group-title="QatarARB",beIN Sports News HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports HD QA" tvg-logo="" group-title="QatarARB",beIN Sports HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports NBA HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA HD QA" tvg-logo="" group-title="QatarARB",beIN Sports NBA HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports NBA FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports NBA FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports NBA FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports English 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports English 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 QA" tvg-logo="" group-title="QatarARB",beIN Sports English 3 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports English 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports English 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports English 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports French 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports French 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports French 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports French 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports French 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports French 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports French 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports French 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 4K QA" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="beIN - Qatar ARB",Bein Sports 1 4K QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports 1 4K QA" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="QatarARB",Bein Sports 1 4K QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/118408.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 3 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 QA" tvg-logo="" group-title="QatarARB",beIN Sports 3 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 4 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 QA" tvg-logo="" group-title="QatarARB",beIN Sports 4 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 4 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 4 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 4 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 4 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 4 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 5 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 QA" tvg-logo="" group-title="QatarARB",beIN Sports 5 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 5 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 5 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 5 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 5 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 5 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 6 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 QA" tvg-logo="" group-title="QatarARB",beIN Sports 6 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 6 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 6 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 6 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 6 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 6 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 7 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 QA" tvg-logo="" group-title="QatarARB",beIN Sports 7 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 7 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports 7 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports 7 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports 7 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 3 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 3 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Premium 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Premium 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Premium 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Xtra 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Xtra 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Xtra 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 1 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 1 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 3 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 3 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 4 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 4 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 4 QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 4 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 5 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC 5 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC 5 QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC 5 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC Global QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC Global QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC Global HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global HD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC Global HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports AFC Global FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports AFC Global FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports AFC Global FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/110008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 QA " tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports MAX 1 QA 
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 QA " tvg-logo="" group-title="QatarARB",Bein Sports MAX 1 QA 
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports MAX 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 1 HD QA" tvg-logo="" group-title="QatarARB",Bein Sports MAX 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 1 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Max 1 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Max 1 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/120008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2 QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Max 2 QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2 QA" tvg-logo="" group-title="QatarARB",beIN Sports Max 2 QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/120010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports MAX 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports MAX 2 HD QA" tvg-logo="" group-title="QatarARB",Bein Sports MAX 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Max 2 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 2 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Max 2 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/120009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Max 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 3 HD QA" tvg-logo="" group-title="QatarARB",beIN Sports Max 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/120012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 3 FHD QA" tvg-logo="" group-title="beIN - Qatar ARB",beIN Sports Max 3 FHD QA
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports Max 3 FHD QA" tvg-logo="" group-title="QatarARB",beIN Sports Max 3 FHD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/120011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports Asian 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 1 HD QA" tvg-logo="" group-title="QatarARB",Bein Sports Asian 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports Asian 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 2 HD QA" tvg-logo="" group-title="QatarARB",Bein Sports Asian 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein Sports Asian 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Asian 3 HD QA" tvg-logo="" group-title="QatarARB",Bein Sports Asian 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFCON 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein AFCON 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFCON 1 HD QA" tvg-logo="" group-title="QatarARB",Bein AFCON 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFCON 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Bein AFCON 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Bein AFCON 2 HD QA" tvg-logo="" group-title="QatarARB",Bein AFCON 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/117164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkass 1 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 1 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 1 HD QA" tvg-logo="" group-title="QatarARB",Alkass 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkass 2 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 2 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 2 HD QA" tvg-logo="" group-title="QatarARB",Alkass 2 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkass 3 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 3 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 3 HD QA" tvg-logo="" group-title="QatarARB",Alkass 3 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkass 4 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 4 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 4 HD QA" tvg-logo="" group-title="QatarARB",Alkass 4 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
+#EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="QatarARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/109992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Future TV Lebanon ARB" tvg-logo="" group-title="ARB Lebanon",Future TV Lebanon ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128962.m3u8
-#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-logo="" group-title="ARB Lebanon",Tele Liban ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/3465.m3u8
-#EXTINF:-1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-logo="" group-title="ARB Lebanon",MTV Lebanon ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2411.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV ARB" tvg-logo="" group-title="ARB Lebanon",Lebanon TV ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2414.m3u8
-#EXTINF:-1 tvg-id="LBC ARB" tvg-name="LBC ARB" tvg-logo="" group-title="ARB Lebanon",LBC ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/2412.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed ARB" tvg-logo="" group-title="ARB Lebanon",Al Jadeed ARB
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/5032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="عبد الحليم حافظ 1" tvg-logo="" group-title="SHAHID VIP",عبد الحليم حافظ 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="عمرو دياب 1" tvg-logo="" group-title="SHAHID VIP",عمرو دياب 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="نانسي عجرم 1" tvg-logo="" group-title="SHAHID VIP",نانسي عجرم 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="صباح فخري 1" tvg-logo="" group-title="SHAHID VIP",صباح فخري 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="فيروز 1" tvg-logo="" group-title="SHAHID VIP",فيروز 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="وائل جسار 1" tvg-logo="" group-title="SHAHID VIP",وائل جسار 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="وائل كفوري 1" tvg-logo="" group-title="SHAHID VIP",وائل كفوري 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="وردة الجزائرية 1" tvg-logo="" group-title="SHAHID VIP",وردة الجزائرية 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="أم كلثوم 1‎" tvg-logo="" group-title="SHAHID VIP",أم كلثوم 1‎
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="اليسا 1" tvg-logo="" group-title="SHAHID VIP",اليسا 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="اليسا 2" tvg-logo="" group-title="SHAHID VIP",اليسا 2
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ام كلثوم 2" tvg-logo="" group-title="SHAHID VIP",ام كلثوم 2
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="جورج وسوف 2" tvg-logo="" group-title="SHAHID VIP",جورج وسوف 2
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 1" tvg-logo="" group-title="SHAHID VIP",راغب علامة 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 2" tvg-logo="" group-title="SHAHID VIP",راغب علامة 2
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="راغب علامة 3" tvg-logo="" group-title="SHAHID VIP",راغب علامة 3
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="رامي عياش 1" tvg-logo="" group-title="SHAHID VIP",رامي عياش 1
+http://extraott-iptv.com:88/live/0229477349/8104258135/401669487.m3u8
