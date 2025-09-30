@@ -1480,20 +1480,6 @@ http://bk.xiptv.network:80/live/freelist/freelist568/11410.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/11409.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3 HD" tvg-logo="" group-title="SSC + STARZ",SSC EXTRA 3 HD
 http://bk.xiptv.network:80/live/freelist/freelist568/11408.m3u8
-#EXTINF:-1 tvg-id="Disney HD ARB" tvg-name="OSN Disney Channel HD QA" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="OSNARB",OSN Disney Channel HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98000.m3u8
-#EXTINF:-1 tvg-id="Disney Junior ARB" tvg-name="OSN Disney Junior HD QA" tvg-logo="http://tugapt.com/picons/disneyjunior.png" group-title="OSNARB",OSN Disney Junior HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OSN Woman FHD QA" tvg-logo="" group-title="OSNARB",OSN Woman FHD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97998.m3u8
-#EXTINF:-1 tvg-id="Nick Jr ARB" tvg-name="OSN Nick Jr HD QA" tvg-logo="http://tugapt.com/picons/nickjr.png" group-title="OSNARB",OSN Nick Jr HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97997.m3u8
-#EXTINF:-1 tvg-id="NickToons HD ARB" tvg-name="OSN Nick Toon HD QA" tvg-logo="http://tugapt.com/picons/nicktoons.png" group-title="OSNARB",OSN Nick Toon HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97996.m3u8
-#EXTINF:-1 tvg-id="OSN Kid Zone TV ARB" tvg-name="OSN Kids Zone HD QA" tvg-logo="http://tugapt.com/picons/osnkidszone.png" group-title="OSNARB",OSN Kids Zone HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97995.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon HD ARB" tvg-name="OSN Nickelodeon HD QA" tvg-logo="http://tugapt.com/picons/nickelodeon.png" group-title="OSNARB",OSN Nickelodeon HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97994.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Baraem HD QA" tvg-logo="" group-title="QatarARB",beIN Baraem HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98144.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Baraem FHD QA" tvg-logo="" group-title="QatarARB",beIN Baraem FHD QA
@@ -1560,8 +1546,6 @@ http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98112.m3u8
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo People HD QA" tvg-logo="" group-title="QatarARB",beIN Nat Geo People HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN Nat Geo Wild HD QA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-kingdom/national-geographic-wild-uk.png" group-title="QatarARB",beIN Nat Geo Wild HD QA
-http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98109.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 HD QA" tvg-logo="" group-title="QatarARB",beIN Series 1 HD QA
 http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98108.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN Series 1 FHD QA" tvg-logo="" group-title="QatarARB",beIN Series 1 FHD QA
@@ -1780,3 +1764,17 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/401669490.m3u8
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669489.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رامي عياش 1" tvg-logo="" group-title="SHAHID VIP",رامي عياش 1
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669487.m3u8
+#EXTINF:-1 tvg-id="Disney HD ARB" tvg-name="OSN Disney Channel HD QA" tvg-logo="http://tugapt.com/picons/disneychannelhd.png" group-title="OSNARB",OSN Disney Channel HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/98000.m3u8
+#EXTINF:-1 tvg-id="Disney Junior ARB" tvg-name="OSN Disney Junior HD QA" tvg-logo="http://tugapt.com/picons/disneyjunior.png" group-title="OSNARB",OSN Disney Junior HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OSN Woman FHD QA" tvg-logo="" group-title="OSNARB",OSN Woman FHD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97998.m3u8
+#EXTINF:-1 tvg-id="Nick Jr ARB" tvg-name="OSN Nick Jr HD QA" tvg-logo="http://tugapt.com/picons/nickjr.png" group-title="OSNARB",OSN Nick Jr HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97997.m3u8
+#EXTINF:-1 tvg-id="NickToons HD ARB" tvg-name="OSN Nick Toon HD QA" tvg-logo="http://tugapt.com/picons/nicktoons.png" group-title="OSNARB",OSN Nick Toon HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97996.m3u8
+#EXTINF:-1 tvg-id="OSN Kid Zone TV ARB" tvg-name="OSN Kids Zone HD QA" tvg-logo="http://tugapt.com/picons/osnkidszone.png" group-title="OSNARB",OSN Kids Zone HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97995.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon HD ARB" tvg-name="OSN Nickelodeon HD QA" tvg-logo="http://tugapt.com/picons/nickelodeon.png" group-title="OSNARB",OSN Nickelodeon HD QA
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/97994.m3u8
