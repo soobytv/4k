@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",test
-https://soobytv.github.io/4k/1.m3u8
+https://raw.githubusercontent.com/soobytv/4k/main/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
@@ -1599,3 +1599,4 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/401669489.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="رامي عياش 1" tvg-logo="" group-title="SHAHID VIP",رامي عياش 1
 
 http://extraott-iptv.com:88/live/0229477349/8104258135/401669487.m3u8
+
