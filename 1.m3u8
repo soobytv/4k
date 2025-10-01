@@ -3,8 +3,8 @@
 #EXT-X-TARGETDURATION_10
 #EXT-X-MEDIA-SEQUENCE:4
 #EXTINF:10.000000,
-000.ts
+https://soobytv.github.io/4k/000.ts
 #EXTINF:10.000000,
-001.ts
+https://soobytv.github.io/4k/001.ts
 #EXTINF:10.000000,
-002.ts
+https://soobytv.github.io/4k/002.ts
