@@ -124,6 +124,66 @@ https://www.go-web.space/stream/3/stream.m3u8
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE" ,MTVone
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD 50 FPS" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 1 FHD 50 FPS
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/1474d2cc-cc4d-4d92-9499-acd4bffab881.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HVEC" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 1 HVEC
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/3d3606cf-0b7c-4a92-8f31-0166153490ed.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 1 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/be23d9a0-fb39-4455-81ea-8a1241fbea7c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 1 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/987f1715-f741-4e5b-b781-239c55330d86.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 1 SD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/f1ae6887-854f-477f-8293-73c1d6a6eca6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 2 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/ed959e8f-7e6a-4b12-91df-90de2f65b947.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 2 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/4c4c7f70-c064-4ad7-ac27-e055b6eb6ac8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 3 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/d9a07ab0-fa57-4849-840e-ec828d58bf52.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 3 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/2f800fb7-c1f1-489e-a723-adabfe64afa9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 4 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/3dd6ccd6-3eb8-421c-8728-7636ae586c91.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 4 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/55532414-db01-468c-8a2f-2d2d95573b89.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 5 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/338ccb54-bacb-4f7f-a822-8149d89e592e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS 5 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/cc64ba34-f815-4b72-9331-9781cc8e9d45.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS MAX 1 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/287756bb-08b4-4b2b-8219-ce121c3c44a9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 1 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS MAX 1 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/5b269a08-3d01-4254-9d52-fb7d5aff1f34.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS MAX 2 FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/a364d44d-025e-4c54-ad36-6eb2d24c0355.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS MAX 2 HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS MAX 2 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/5159df55-3bb3-4487-ab31-98bbd6212c3e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER FHD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS HABER FHD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/c0ef067b-c883-4eb3-9b82-cc8cf05a2578.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS HABER HD" tvg-logo="" group-title="beIN SPORTS",beIN SPORTS HABER HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/cd1c7560-b624-475e-8a5c-d574393a3052.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 1 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 1 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/b3234e11-ce70-4fd0-a4ad-29bb70bacd4b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 2 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 2 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/9ad6e349-a363-45c0-93f0-0f5a7c5ecc3d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 3 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 3 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/8eab1ef9-f52b-4a64-b6ec-6603b8d93613.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 4 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 4 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/ec9d5ebc-4d54-46a2-8409-5115929d8e3e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 5 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 5 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/b3ffc47c-93a4-46c4-aab7-657ec3db5de9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 6 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 6 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/ec43025e-b7cd-4fb2-abff-f97a93073c4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 7 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 7 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/a7693617-f215-4814-86b1-265884595c5d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 8 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 8 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/24d70aae-c648-4df3-a4ed-7a96db0acc60.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 9 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 9 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/d1d8f35d-888a-48a8-a4ea-821897702556.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 10 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 10 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/8298e68f-409e-4735-aa08-0c5d1255c898.m3u
+#EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 11 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 11 HD
+http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/99267e2e-ff0a-4d4f-a719-fa410588944c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BEIN1" tvg-logo="" group-title="SPORTS" ,BEIN-1
 http://147.93.52.85:80/X4jEpXyqEz/fFTFfAK3hs/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN2" tvg-logo="" group-title="SPORTS" ,BEIN-2
@@ -1418,3 +1478,4 @@ http://bk.xiptv.network:80/live/freelist/freelist568/12760.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/12759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA beIN 3 XTRA Ultra HD" tvg-logo="" group-title="OSN Local" ,UEFA beIN 3 XTRA Ultra HD
 http://bk.xiptv.network:80/live/freelist/freelist568/12758.m3u8
+
