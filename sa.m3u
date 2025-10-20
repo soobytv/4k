@@ -996,33 +996,17 @@ http://bk.xiptv.network:80/live/freelist/freelist568/1936.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/1935.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kids: Duck TV" tvg-logo="" group-title="Local Arab" ,Kids: Duck TV
 http://bk.xiptv.network:80/live/freelist/freelist568/1934.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC NEW" tvg-logo="" group-title="Bein Family" ,Bein AFC NEW
-http://bk.xiptv.network:80/live/freelist/freelist568/1113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 HD" tvg-logo="" group-title="Bein Family" ,Bein AFC1 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/1112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 HD" tvg-logo="" group-title="Bein Family" ,Bein AFC2 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/1111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 HD" tvg-logo="" group-title="Bein Family" ,Bein AFC3 HD
-http://bk.xiptv.network:80/live/freelist/freelist568/1110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC Global SD" tvg-logo="" group-title="Bein Family" ,Bein AFC Global SD
-http://bk.xiptv.network:80/live/freelist/freelist568/1109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC1 SD" tvg-logo="" group-title="Bein Family" ,Bein AFC1 SD
-http://bk.xiptv.network:80/live/freelist/freelist568/1108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC2 SD" tvg-logo="" group-title="Bein Family" ,Bein AFC2 SD
-http://bk.xiptv.network:80/live/freelist/freelist568/1107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bein AFC3 SD" tvg-logo="" group-title="Bein Family" ,Bein AFC3 SD
-http://bk.xiptv.network:80/live/freelist/freelist568/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Cinema 1" tvg-logo="" group-title="Local" ,RE: OSN Cinema 1
+#EXTINF:-1 tvg-id="" tvg-name="OSN Cinema 1" tvg-logo="" group-title="Local" ,OSN Cinema 1
 http://bk.xiptv.network:80/live/freelist/freelist568/11396.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Cinema 2" tvg-logo="" group-title="Local" ,RE: OSN Cinema 2
+#EXTINF:-1 tvg-id="" tvg-name="OSN Cinema 2" tvg-logo="" group-title="Local" ,OSN Cinema 2
 http://bk.xiptv.network:80/live/freelist/freelist568/11395.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Discovery Science" tvg-logo="" group-title="Local" ,RE: OSN Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science" tvg-logo="" group-title="Local" ,OSN Discovery Science
 http://bk.xiptv.network:80/live/freelist/freelist568/11394.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Discovery" tvg-logo="" group-title="Local" ,RE: OSN Discovery
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery" tvg-logo="" group-title="Local" ,OSN Discovery
 http://bk.xiptv.network:80/live/freelist/freelist568/11393.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN Fann" tvg-logo="" group-title="Local" ,RE: OSN Fann
+#EXTINF:-1 tvg-id="" tvg-name="OSN Fann" tvg-logo="" group-title="Local" ,OSN Fann
 http://bk.xiptv.network:80/live/freelist/freelist568/11392.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RE: OSN H 1" tvg-logo="" group-title="Local" ,RE: OSN H 1
+#EXTINF:-1 tvg-id="" tvg-name="OSN H 1" tvg-logo="" group-title="Local" ,OSN H 1
 http://bk.xiptv.network:80/live/freelist/freelist568/11391.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Apple TV Live 1080P" tvg-logo="" group-title="Local" ,Apple TV Live 1080P 
 http://bk.xiptv.network:80/live/freelist/freelist568/11407.m3u8
@@ -1444,4 +1428,5 @@ http://bk.xiptv.network:80/live/freelist/freelist568/12760.m3u8
 http://bk.xiptv.network:80/live/freelist/freelist568/12759.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UEFA beIN 3 XTRA Ultra HD" tvg-logo="" group-title="OSN Local" ,UEFA beIN 3 XTRA Ultra HD
 http://bk.xiptv.network:80/live/freelist/freelist568/12758.m3u8
+
 
