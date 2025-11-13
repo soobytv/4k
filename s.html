@@ -3,8 +3,40 @@
   <head>
     <title>SOUBI</title>
     <script src="https://www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+    <style>
+      body {
+        margin: 0;
+        background-color: #111;
+        font-family: 'Segoe UI', sans-serif;
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+
+      cast-media-player {
+        --media-title-color: #00ffcc;
+        --media-background-color: #222;
+        --media-control-color: #ffffff;
+        --media-seekbar-color: #00ffcc;
+        width: 90%;
+        max-width: 800px;
+        box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
+        border-radius: 12px;
+        overflow: hidden;
+      }
+
+      h1 {
+        margin-bottom: 20px;
+        font-size: 2em;
+        color: #00ffcc;
+      }
+    </style>
   </head>
   <body>
+    <h1>SOUBI Cast Receiver</h1>
     <cast-media-player></cast-media-player>
     <script>
       const context = cast.framework.CastReceiverContext.getInstance();
