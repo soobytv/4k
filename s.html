@@ -16,16 +16,17 @@
         height: 100vh;
       }
 
-      cast-media-player {
-        --media-title-color: #00ffcc;
-        --media-background-color: #222;
-        --media-control-color: #ffffff;
-        --media-seekbar-color: #00ffcc;
+      .player-box {
         width: 90%;
         max-width: 800px;
+        background: #222;
         box-shadow: 0 0 20px rgba(0, 255, 204, 0.3);
         border-radius: 12px;
         overflow: hidden;
+        padding: 24px 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
       }
 
       h1 {
@@ -33,16 +34,57 @@
         font-size: 2em;
         color: #00ffcc;
       }
+
+      video {
+        width: 100%;
+        max-width: 760px;
+        border-radius: 8px;
+        box-shadow: 0 0 8px #00ffcc44;
+        background: #222;
+        outline: none;
+      }
+      .fallback-message {
+        margin-top: 12px;
+        color: #00ffcc;
+      }
     </style>
   </head>
   <body>
-    <h1>SOUBI Cast Receiver</h1>
-    <cast-media-player></cast-media-player>
+    <h1>SOUBI Cast Receiver (Test Mode)</h1>
+    <div class="player-box" id="playerbox"></div>
     <script>
-      const context = cast.framework.CastReceiverContext.getInstance();
-      const playerManager = context.getPlayerManager();
-      context.start();
+      function isCastContext() {
+        return window.cast && window.cast.framework;
+      }
+
+      function makeFallbackUI() {
+       
+        const box = document.getElementById('playerbox');
+        box.innerHTML = `
+          <video controls poster="https://dummyimage.com/800x450/222/00ffcc.png&text=SOUBI+Test">
+            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+            Sorry, your browser doesn't support embedded videos.
+          </video>
+          <div class="fallback-message">
+            Not running as a Cast Receiver.<br>
+            This is a test video player for browser preview.
+          </div>
+        `;
+      }
+
+      function makeCastUI() {
+        const box = document.getElementById('playerbox');
+        box.innerHTML = `<cast-media-player></cast-media-player>`;
+        const context = cast.framework.CastReceiverContext.getInstance();
+        const playerManager = context.getPlayerManager();
+        context.start();
+      }
+
+      if (isCastContext()) {
+        makeCastUI();
+      } else {
+        makeFallbackUI();
+      }
     </script>
   </body>
-
 </html>
