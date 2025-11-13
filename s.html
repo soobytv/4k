@@ -56,15 +56,14 @@
       function makeFallbackUI() {
         const box = document.getElementById('playerbox');
         box.innerHTML = `
-          <video controls poster="https://dummyimage.com/800x450/222/00ffcc.png&text=SOUBI+Test">
-            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-            Sorry, your browser doesn't support embedded videos.
+          <video controls poster="">
+            <source src="">
           </video>
           <div class="fallback-message">
             Not running as a Cast Receiver.<br>
             This is a test video player for browser preview.
           </div>
-        `;
+        ;
       }
       function makeCastUI() {
         const box = document.getElementById('playerbox');
@@ -81,3 +80,4 @@
     </script>
   </body>
 </html>
+
