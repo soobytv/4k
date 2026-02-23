@@ -115,7 +115,9 @@ https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 Arabiya https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAKAN" tvg-logo="" group-title="LEBANESE",MAKAN 
-https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
+#EXTINF:-1 tvg-id="" tvg-name="MAKANN" tvg-logo="" group-title="LEBANESE",MAKANN
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
 #EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE",JADEED
 https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="LEBANESE",LBCI
@@ -2896,6 +2898,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109992
+
 
 
 
