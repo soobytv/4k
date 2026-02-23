@@ -117,9 +117,11 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAKAN" tvg-logo="" group-title="LEBANESE",MAKAN 
 https://makan.media.kan.org.il/hls/live/2024680/2024680/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE",JADEED
-https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
+https://samaflix.com:12103/channel7/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADEEED" tvg-logo="" group-title="LEBANESE",JADEEED
+http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="" group-title="LEBANESE",LBC
-https://www.web24iptv.online/hls_lbn.php?url=https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8
+https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
@@ -2894,4 +2896,5 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109992
+
 
