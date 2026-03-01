@@ -120,6 +120,8 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
 #EXTINF:-1 tvg-id="" tvg-name="MAKANN" tvg-logo="" group-title="LEBANESE",MAKANN
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
+#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANESE",MANAR
+https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
@@ -2898,6 +2900,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109992
+
 
 
 
