@@ -110,8 +110,7 @@ https://raw.githubusercontent.com/soubilombardo/soubi/main/You.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mix" tvg-logo="https://images.creativefabrica.com/products/previews/2023/11/05/orbrnLuKY/2XkPLwJM0GU6kfzmNnCuk2mBMsc-desktop.jpg" group-title="Christmas",Mix
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Ch.mp4
 #EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE",JAZEERA
-https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8 
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABIYA" tvg-logo="" group-title="LEBANESE",ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HADATH" tvg-logo="" group-title="LEBANESE",HADATH
@@ -2900,6 +2899,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109992
+
 
 
 
