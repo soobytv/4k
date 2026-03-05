@@ -129,10 +129,8 @@ https://edge.fastpublish.me/live/index.m3u8
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE",JADEED
-https://samaflix.com:12103/channel7/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="" group-title="LEBANESE",LBC
-https://samaflix.com:12103/channel2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-1" tvg-logo="" group-title="SPORTS",BEIN-1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-2" tvg-logo="" group-title="SPORTS",BEIN-2
@@ -2903,6 +2901,7 @@ http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109994
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109993
 #EXTINF:-1 tvg-id="" tvg-name="Alkass 5 HD QA" tvg-logo="" group-title="beIN - Qatar ARB",Alkass 5 HD QA
 http://portal.geniptv.com:8080/dmtndmtnkimo/a7GPMeArdf/109992
+
 
 
 
