@@ -131,10 +131,6 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENSES TV" tvg-logo="" group-title="LEBANESE",SENSES TV
-https://sensestv.com:4433/hls/sensesonline/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE",JADEED
-http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-1" tvg-logo="" group-title="SPORTS",BEIN-1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-2" tvg-logo="" group-title="SPORTS",BEIN-2
@@ -1233,6 +1229,7 @@ http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/d1d8f35d-888a-48a8-a4ea-
 http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/8298e68f-409e-4735-aa08-0c5d1255c898.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="beIN CONNECT 11 HD" tvg-logo="" group-title="beIN SPORTS",beIN CONNECT 11 HD
 http://spr.asl35.xyz:2082/live/hasbahca/fxdxPXrttnjuFR6/99267e2e-ff0a-4d4f-a719-fa410588944c.m3u8
+
 
 
 
