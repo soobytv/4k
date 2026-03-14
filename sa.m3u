@@ -36,6 +36,7 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SENSES TV" tvg-logo="" group-title="LEBANESE",SENSES TV
+https://sensestv.com/stream/sensesonline/index.m3u8
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
