@@ -37,10 +37,6 @@ https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SENSES TV" tvg-logo="" group-title="LEBANESE",SENSES TV
 http://31.14.41.69:8080/hls/sensesonline/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed" tvg-logo="" group-title="LEBANESE",Al Jadeed
-http://cyber4k.sytes.net:8080/live/free618/free/1058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="" group-title="LEBANESE",LBC International
-http://cyber4k.sytes.net:8080/live/free618/free/1061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
