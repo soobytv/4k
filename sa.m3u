@@ -37,6 +37,34 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
 http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="LEBANESE",1VOD-Documentary
 http://185.104.71.236:25461/live/ST/ST/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE",JAZEERA
+https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE" tvg-logo="" group-title="LEBANESE",JAZEERA LIVE
+https://live-hls-web-ajm-bp.thehlive.com/AJM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE1" tvg-logo="" group-title="LEBANESE",JAZEERA LIVE1
+https://live-hls-web-ajm2-gcp.thehlive.com/AJM2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ARABIYA" tvg-logo="" group-title="LEBANESE",ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HADATH" tvg-logo="" group-title="LEBANESE",HADATH
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKAN" tvg-logo="" group-title="LEBANESE",MAKAN 
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
+#EXTINF:-1 tvg-id="" tvg-name="MAKANN" tvg-logo="" group-title="LEBANESE",MAKANN
+https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
+#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANESE",MANAR
+https://edge.fastpublish.me/live/index.m3u8
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
+https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SENSES TV" tvg-logo="" group-title="LEBANESE",SENSES TV
+http://31.14.41.69:8080/hls/sensesonline/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed" tvg-logo="" group-title="LEBANESE",Al Jadeed
+http://cyber4k.sytes.net:8080/live/free618/free/1058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="" group-title="LEBANESE",LBC International
+http://cyber4k.sytes.net:8080/live/free618/free/1061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Hopkins
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Hopkins.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Argentina" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Argentina
@@ -109,30 +137,6 @@ https://raw.githubusercontent.com/soubilombardo/soubi/main/White.mp4
 https://raw.githubusercontent.com/soubilombardo/soubi/main/You.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mix" tvg-logo="https://images.creativefabrica.com/products/previews/2023/11/05/orbrnLuKY/2XkPLwJM0GU6kfzmNnCuk2mBMsc-desktop.jpg" group-title="Christmas",Mix
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Ch.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE",JAZEERA
-https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE" tvg-logo="" group-title="LEBANESE",JAZEERA LIVE
-https://live-hls-web-ajm-bp.thehlive.com/AJM/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JAZEERA LIVE1" tvg-logo="" group-title="LEBANESE",JAZEERA LIVE1
-https://live-hls-web-ajm2-gcp.thehlive.com/AJM2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ARABIYA" tvg-logo="" group-title="LEBANESE",ARABIYA
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HADATH" tvg-logo="" group-title="LEBANESE",HADATH
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAKAN" tvg-logo="" group-title="LEBANESE",MAKAN 
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
-#EXTINF:-1 tvg-id="" tvg-name="MAKANN" tvg-logo="" group-title="LEBANESE",MAKANN
-https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
-#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANESE",MANAR
-https://edge.fastpublish.me/live/index.m3u8
-#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SENSES TV" tvg-logo="" group-title="LEBANESE",SENSES TV
-http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-1" tvg-logo="" group-title="SPORTS",BEIN-1
 http://135.125.109.73:9000/beinsport1_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-2" tvg-logo="" group-title="SPORTS",BEIN-2
