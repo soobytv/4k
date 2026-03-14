@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
-https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
-https://raw.githubusercontent.com/soobytv/4k/main/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",بيتا
-https://raw.githubusercontent.com/soobytv/4k/main/bb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",جاما
-https://raw.githubusercontent.com/soobytv/4k/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",دلتا
-https://raw.githubusercontent.com/soobytv/4k/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ثيتا
-https://raw.githubusercontent.com/soobytv/4k/main/2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملائكة
-https://raw.githubusercontent.com/soobytv/4k/main/11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",سيجما
-https://raw.githubusercontent.com/soobytv/4k/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",الشفاء
-https://raw.githubusercontent.com/soobytv/4k/main/shi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملاك الحارس
-https://raw.githubusercontent.com/soobytv/4k/main/ma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",العين الثالثة
-https://raw.githubusercontent.com/soobytv/4k/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Video" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",Video
-https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="LEBANESE",1Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="LEBANESE",1VOD-Music
@@ -65,6 +41,30 @@ http://31.14.41.69:8080/hls/sensesonline/index.m3u8
 http://cyber4k.sytes.net:8080/live/free618/free/1058.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="LBC International" tvg-logo="" group-title="LEBANESE",LBC International
 http://cyber4k.sytes.net:8080/live/free618/free/1061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
+https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
+https://raw.githubusercontent.com/soobytv/4k/main/1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",بيتا
+https://raw.githubusercontent.com/soobytv/4k/main/bb.mp4
+#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",جاما
+https://raw.githubusercontent.com/soobytv/4k/main/gamma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",دلتا
+https://raw.githubusercontent.com/soobytv/4k/main/delta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ثيتا
+https://raw.githubusercontent.com/soobytv/4k/main/2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملائكة
+https://raw.githubusercontent.com/soobytv/4k/main/11.mp4
+#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",سيجما
+https://raw.githubusercontent.com/soobytv/4k/main/theta.mp4
+#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",الشفاء
+https://raw.githubusercontent.com/soobytv/4k/main/shi.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملاك الحارس
+https://raw.githubusercontent.com/soobytv/4k/main/ma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",العين الثالثة
+https://raw.githubusercontent.com/soobytv/4k/main/third.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Video" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",Video
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Hopkins
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Hopkins.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Argentina" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Argentina
