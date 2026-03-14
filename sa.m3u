@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="LEBANESE",1Sada-El-Arz-Tv
-http://iptv.icsnleb.com:25461/live/ST/ST/1034.ts
+https://dash.akamaized.net/envivio/EnvivioDash3/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="LEBANESE",1VOD-Music
 http://185.104.71.236:25461/live/ST/ST/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Movies" tvg-logo="" group-title="LEBANESE",1VOD-Movies
