@@ -39,14 +39,6 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="test" tvg-logo="" group-title="LEBANESE",test
-http://webcam.st-malo.com/axis-cgi/mjpg/video.cgi?resolution=352x288
-#EXTINF:-1 tvg-id="" tvg-name="test2" tvg-logo="" group-title="LEBANESE",test2
-http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpg
-#EXTINF:-1 tvg-id="" tvg-name="test3" tvg-logo="" group-title="LEBANESE",test3
-http://pendelcam.kip.uni-heidelberg.de/mjpg/video.mjpeg
-#EXTINF:-1 tvg-id="" tvg-name="test4" tvg-logo="" group-title="LEBANESE",test4
-http://91.180.2.116:8010/cgi-bin/faststream.jpg?stream=full&fps=30&rand=COUNTER
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
