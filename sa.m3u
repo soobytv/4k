@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="LEBANESE",1Sada-El-Arz-Tv
+#EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="Entertainment",1Sada-El-Arz-Tv
 http://iptv.icsnleb.com:25461/live/ST/ST/1034.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="LEBANESE",1VOD-Music
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="Entertainment",1VOD-Music
 http://185.104.71.236:25461/live/ST/ST/36.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Movies" tvg-logo="" group-title="LEBANESE",1VOD-Movies
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Movies" tvg-logo="" group-title="Entertainment",1VOD-Movies
 http://iptv.icsnleb.com:25461/live/ST/ST/55.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Leb" tvg-logo="" group-title="LEBANESE",1VOD-Leb
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Leb" tvg-logo="" group-title="Entertainment",1VOD-Leb
 http://185.104.71.236:25461/live/ST/ST/37.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Cinema" tvg-logo="" group-title="LEBANESE",1VOD-Cinema
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Cinema" tvg-logo="" group-title="Entertainment",1VOD-Cinema
 http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Series" tvg-logo="" group-title="LEBANESE",1VOD-Series
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Series" tvg-logo="" group-title="Entertainment",1VOD-Series
 http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
-#EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="LEBANESE",1VOD-Documentary
+#EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="Entertainment",1VOD-Documentary
 http://185.104.71.236:25461/live/ST/ST/40.ts
 #EXTINF:-1 tvg-id="" tvg-name="JAZEERA" tvg-logo="" group-title="LEBANESE",JAZEERA
 https://live-hls-web-aja-fa.thehlive.com/AJA/index.m3u8
@@ -39,67 +39,67 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",التحكم
+#EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ألفا
+#EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
 https://raw.githubusercontent.com/soobytv/4k/main/1.mp4
-#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",بيتا
+#EXTINF:-1 tvg-id="" tvg-name="بيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",بيتا
 https://raw.githubusercontent.com/soobytv/4k/main/bb.mp4
-#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",جاما
+#EXTINF:-1 tvg-id="" tvg-name="جاما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",جاما
 https://raw.githubusercontent.com/soobytv/4k/main/gamma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",دلتا
+#EXTINF:-1 tvg-id="" tvg-name="دلتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",دلتا
 https://raw.githubusercontent.com/soobytv/4k/main/delta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ثيتا
+#EXTINF:-1 tvg-id="" tvg-name="ثيتا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ثيتا
 https://raw.githubusercontent.com/soobytv/4k/main/2.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملائكة
+#EXTINF:-1 tvg-id="" tvg-name="ملائكة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ملائكة
 https://raw.githubusercontent.com/soobytv/4k/main/11.mp4
-#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",سيجما
+#EXTINF:-1 tvg-id="" tvg-name="سيجما" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",سيجما
 https://raw.githubusercontent.com/soobytv/4k/main/theta.mp4
-#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",الشفاء
+#EXTINF:-1 tvg-id="" tvg-name="الشفاء" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",الشفاء
 https://raw.githubusercontent.com/soobytv/4k/main/shi.mp4
-#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",ملاك الحارس
+#EXTINF:-1 tvg-id="" tvg-name="ملاك الحارس" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ملاك الحارس
 https://raw.githubusercontent.com/soobytv/4k/main/ma.mp4
-#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",العين الثالثة
+#EXTINF:-1 tvg-id="" tvg-name="العين الثالثة" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",العين الثالثة
 https://raw.githubusercontent.com/soobytv/4k/main/third.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Video" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="Brain Waves",Video
+#EXTINF:-1 tvg-id="" tvg-name="Video" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",Video
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Hopkins
+#EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Hopkins
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Hopkins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argentina" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Argentina
+#EXTINF:-1 tvg-id="" tvg-name="Argentina" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Argentina
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Argentina.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ballade" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Ballade
+#EXTINF:-1 tvg-id="" tvg-name="Ballade" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Ballade
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Ballade.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fortuna" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Fortuna
+#EXTINF:-1 tvg-id="" tvg-name="Fortuna" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Fortuna
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Fortuna.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Godfather" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Godfather
+#EXTINF:-1 tvg-id="" tvg-name="Godfather" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Godfather
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Godfather.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Heart" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Heart
+#EXTINF:-1 tvg-id="" tvg-name="Heart" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Heart
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Heart.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Hopkins
+#EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Hopkins
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Hopkins.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lonely" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Lonely
+#EXTINF:-1 tvg-id="" tvg-name="Lonely" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Lonely
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Lonely.mp4
-#EXTINF:-1 tvg-id="" tvg-name="MyWay" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",MyWay
+#EXTINF:-1 tvg-id="" tvg-name="MyWay" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",MyWay
 https://raw.githubusercontent.com/soubilombardo/soubi/main/MyWay.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Silenzio" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Silenzio
+#EXTINF:-1 tvg-id="" tvg-name="Silenzio" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Silenzio
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Silenzio.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vangelis" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Vangelis
+#EXTINF:-1 tvg-id="" tvg-name="Vangelis" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Vangelis
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Vangelis.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Romance
+#EXTINF:-1 tvg-id="" tvg-name="Romance" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Romance
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Romance.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Voila" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Voila
+#EXTINF:-1 tvg-id="" tvg-name="Voila" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Voila
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Voila.mp4
-#EXTINF:-1 tvg-id="" tvg-name="OdeToJoy" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",OdeToJoy
+#EXTINF:-1 tvg-id="" tvg-name="OdeToJoy" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",OdeToJoy
 https://raw.githubusercontent.com/soubilombardo/soubi/main/OdeToJoy.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mirusia" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Mirusia
+#EXTINF:-1 tvg-id="" tvg-name="Mirusia" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Mirusia
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Mirusia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Habanera" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Habanera
+#EXTINF:-1 tvg-id="" tvg-name="Habanera" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Habanera
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Habanera.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Falling" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Falling
+#EXTINF:-1 tvg-id="" tvg-name="Falling" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Falling
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Falling.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ebben" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Ebben
+#EXTINF:-1 tvg-id="" tvg-name="Ebben" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Ebben
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Ebben.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Babbino" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="Andre Rieu",Babbino
+#EXTINF:-1 tvg-id="" tvg-name="Babbino" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Babbino
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Babbino.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BellaCiao" tvg-logo="" group-title="Miscellaneous",BellaCiao
 https://raw.githubusercontent.com/soubilombardo/soubi/main/BellaCiao.mp4
