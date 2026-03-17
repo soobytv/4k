@@ -877,7 +877,6 @@ http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
 http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
 #EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
 http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
-http://4kgood.org:80/anzi35_877113/qNjTLxWI/1121791
 #EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
 http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
 #EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
@@ -898,4 +897,103 @@ http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
 http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
 #EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
 http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
-
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/114050
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/3851
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269945
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/2538
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/245833
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269954
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/114050
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/3851
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269945
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/2538
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/245833
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269954
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/114050
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/3851
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269945
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/2538
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/245833
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269954
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/114050
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/3851
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269945
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/2538
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/245833
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269954
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="BEIN SPORTS 3 TOD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",BEIN SPORTS 3 TOD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/272465
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/114050
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 UHD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 UHD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/3851
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus 4K" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT 4K",beIN Sports 3 Nexus 4K
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269945
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/2538
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN SPORTS 3 SD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEIN1.png" group-title="|AR| ✪ BEIN SPORT SD",beIN SPORTS 3 SD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/245833
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="beIN Sports 3 Nexus SD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT SD",beIN Sports 3 Nexus SD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/1269954
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/5
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 ᴴᴰ
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/534828
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="beIN Sports 4 HD BEE TV" tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="|AR| ✪ BEIN SPORT HD",beIN Sports 4 HD BEE TV
+http://4kgood.org:80/anzi35_877113/qNjTLxWI/108165
