@@ -153,81 +153,31 @@ http://135.125.109.73:9000/beinsport7_.m3u8
 http://135.125.109.73:9000/beinsport8_.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-9" tvg-logo="" group-title="SPORTS",BEIN-9
 http://135.125.109.73:9000/beinsport9_.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Aghani Aghani TV FHD" tvg-logo="http://91.208.162.66/aghani_aghani_lb_tv.png" group-title="LEBANON2,Aghani Aghani TV FHD
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI" tvg-logo="" group-title="LEBANON2",AGHANI
 http://009900.live:8080/8299900028786814/8299900028786814/284793
-#EXTINF:-1 tvg-id="" tvg-name="al hadath" tvg-logo="http://91.208.162.66/al_hadath_ae.png" group-title="LEBANON2,al hadath
-http://009900.live:8080/8299900028786814/8299900028786814/284794
-#EXTINF:-1 tvg-id="" tvg-name="Al Jadeed HD" tvg-logo="http://91.208.162.66/al_jadeed.png" group-title="LEBANON2,Al Jadeed HD
+#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANON2",JADEED
 http://009900.live:8080/8299900028786814/8299900028786814/284796
-#EXTINF:-1 tvg-id="" tvg-name="Al Mayadeen TV" tvg-logo="http://91.208.162.66/al_mayadeen_tv.png" group-title="LEBANON2,Al Mayadeen TV
-http://009900.live:8080/8299900028786814/8299900028786814/284797
-#EXTINF:-1 tvg-id="" tvg-name="Al Sharq" tvg-logo="http://91.208.162.66/asharq-news-ae.png" group-title="LEBANON2,Al Sharq
-http://009900.live:8080/8299900028786814/8299900028786814/284798
-#EXTINF:-1 tvg-id="" tvg-name="Al Waad Channel" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,Al Waad Channel
-http://009900.live:8080/8299900028786814/8299900028786814/284799
-#EXTINF:-1 tvg-id="" tvg-name="Al Manar TV" tvg-logo="http://91.208.162.66/al-manar-tv-lb.png" group-title="LEBANON2,Al Manar TV
-http://009900.live:8080/8299900028786814/8299900028786814/284800
-#EXTINF:-1 tvg-id="" tvg-name="Almaaref TV" tvg-logo="http://91.208.162.66/al-maaref-tv-kw.png" group-title="LEBANON2,Almaaref TV
-http://009900.live:8080/8299900028786814/8299900028786814/284801
-#EXTINF:-1 tvg-id="" tvg-name="Alqanat 9" tvg-logo="http://91.208.162.66/al_qanat_tv_tr.png" group-title="LEBANON2,Alqanat 9
-http://009900.live:8080/8299900028786814/8299900028786814/284802
-#EXTINF:-1 tvg-id="" tvg-name="Arabica" tvg-logo="http://91.208.162.66/arabica_tv_lb.png" group-title="LEBANON2,Arabica
-http://009900.live:8080/8299900028786814/8299900028786814/284803
-#EXTINF:-1 tvg-id="" tvg-name="ASIA TV" tvg-logo="http://91.208.162.66/asian_tv_bd.png" group-title="LEBANON2,ASIA TV
-http://009900.live:8080/8299900028786814/8299900028786814/284804
-#EXTINF:-1 tvg-id="" tvg-name="Canadian Arab TV" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,Canadian Arab TV
-http://009900.live:8080/8299900028786814/8299900028786814/284805
-#EXTINF:-1 tvg-id="" tvg-name="CHARITY TV" tvg-logo="http://91.208.162.66/charity_tv_lb.png" group-title="LEBANON2,CHARITY TV
-http://009900.live:8080/8299900028786814/8299900028786814/284806
-#EXTINF:-1 tvg-id="" tvg-name="HAWACOM TV" tvg-logo="http://91.208.162.66/vhawacom_tv_lb.png" group-title="LEBANON2,HAWACOM TV
-http://009900.live:8080/8299900028786814/8299900028786814/284808
-#EXTINF:-1 tvg-id="" tvg-name="Lana TV" tvg-logo="http://91.208.162.66/lana-tv-lb.png" group-title="LEBANON2,Lana TV
-http://009900.live:8080/8299900028786814/8299900028786814/284809
-#EXTINF:-1 tvg-id="" tvg-name="LBC HD" tvg-logo="http://91.208.162.66/lbc-tv-sa.png" group-title="LEBANON2,LBC HD
-http://009900.live:8080/8299900028786814/8299900028786814/284811
-#EXTINF:-1 tvg-id="" tvg-name="LBC International HD" tvg-logo="http://91.208.162.66/lbc-international-lb.png" group-title="LBC International HD
+#EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="LEBANON2",LBCI
 http://009900.live:8080/8299900028786814/8299900028786814/284812
-#EXTINF:-1 tvg-id="" tvg-name="LBC SAT" tvg-logo="http://91.208.162.66/lbc_sat.png" group-title="LEBANON2,LBC SAT
-http://009900.live:8080/8299900028786814/8299900028786814/284813
 #EXTINF:-1 tvg-id="" tvg-name="LBCI International" tvg-logo="http://91.208.162.66/lbc-international-lb.png" group-title="LBCI International
 http://009900.live:8080/8299900028786814/8299900028786814/284814
-#EXTINF:-1 tvg-id="" tvg-name="Lebanon TV" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,Lebanon TV
+#EXTINF:-1 tvg-id="" tvg-name="LEB-TV" tvg-logo="" group-title="LEBANON2",LEB-TV
 http://009900.live:8080/8299900028786814/8299900028786814/284818
-#EXTINF:-1 tvg-id="" tvg-name="Manar TV" tvg-logo="http://91.208.162.66/al-manar-tv-lb.png" group-title="LEBANON2,Manar TV
+#EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANON2",MANAR
 http://009900.live:8080/8299900028786814/8299900028786814/284819
-#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="http://91.208.162.66/mtv_tv_lb.png" group-title="LEBANON2,MTV HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" group-title="LEBANON2",MTV HD
 http://009900.live:8080/8299900028786814/8299900028786814/284820
-#EXTINF:-1 tvg-id="" tvg-name="MTV Lebanon HD" tvg-logo="http://91.208.162.66/mtv_tv_lb.png" group-title="LEBANON2,MTV Lebanon HD
+#EXTINF:-1 tvg-id="" tvg-name="MTV TV" tvg-logo="" group-title="LEBANON2",MTV TV
 http://009900.live:8080/8299900028786814/8299900028786814/284821
-#EXTINF:-1 tvg-id="" tvg-name="Nabaa TV" tvg-logo="http://91.208.162.66/nabaa-tv-sa.png" group-title="LEBANON2,Nabaa TV
-http://009900.live:8080/8299900028786814/8299900028786814/284822
-#EXTINF:-1 tvg-id="" tvg-name="NBN HD" tvg-logo="http://91.208.162.66/nbn_lb.png" group-title="LEBANON2,NBN HD
-http://009900.live:8080/8299900028786814/8299900028786814/284823
-#EXTINF:-1 tvg-id="" tvg-name="NBN Lebanon FHD" tvg-logo="http://91.208.162.66/nbn_lb.png" group-title="LEBANON2,NBN Lebanon FHD
-http://009900.live:8080/8299900028786814/8299900028786814/284824
-#EXTINF:-1 tvg-id="" tvg-name="Noursat FHD" tvg-logo="http://91.208.162.66/nour_sat_lb.png" group-title="LEBANON2,Noursat FHD
-http://009900.live:8080/8299900028786814/8299900028786814/284825
-#EXTINF:-1 tvg-id="" tvg-name="One Lebanon TV" tvg-logo="http://91.208.162.66/one_tv_.png" group-title="LEBANON2,One Lebanon TV
+#EXTINF:-1 tvg-id="" tvg-name="ONE-AGHANI" tvg-logo="" group-title="LEBANON2",ONE-AGHANI
 http://009900.live:8080/8299900028786814/8299900028786814/284826
-#EXTINF:-1 tvg-id="" tvg-name="ROYA HD" tvg-logo="http://91.208.162.66/roya_tv_jo.png" group-title="LEBANON2,ROYA HD
-http://009900.live:8080/8299900028786814/8299900028786814/284829
-#EXTINF:-1 tvg-id="" tvg-name="Tel Lebonan" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,Tel Lebonan
+#EXTINF:-1 tvg-id="" tvg-name="T-LIBAN" tvg-logo="" group-title="LEBANON2",T-LIBAN
 http://009900.live:8080/8299900028786814/8299900028786814/284830
-#EXTINF:-1 tvg-id="" tvg-name="Teleliban TV" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,Teleliban TV
+#EXTINF:-1 tvg-id="" tvg-name="TELE LIBAN" tvg-logo="" group-title="LEBANON2",TELE LIBAN
 http://009900.live:8080/8299900028786814/8299900028786814/284831
-#EXTINF:-1 tvg-id="" tvg-name="TV Alittihad" tvg-logo="http://91.208.162.66/etihad.png" group-title="LEBANON2,TV Alittihad
-http://009900.live:8080/8299900028786814/8299900028786814/284832
-#EXTINF:-1 tvg-id="" tvg-name="TV Charity" tvg-logo="http://91.208.162.66/charity_tv_lb.png" group-title="LEBANON2,TV Charity
-http://009900.live:8080/8299900028786814/8299900028786814/284833
-#EXTINF:-1 tvg-id="" tvg-name="TV Lebanon" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,TV Lebanon
-http://009900.live:8080/8299900028786814/8299900028786814/284834
-#EXTINF:-1 tvg-id="" tvg-name="TV Seventeen" tvg-logo="http://91.208.162.66/" group-title="LEBANON2,TV Seventeen
-http://009900.live:8080/8299900028786814/8299900028786814/284835
-#EXTINF:-1 tvg-id="" tvg-name="U News" tvg-logo="http://91.208.162.66/unews-lb.png" group-title="LEBANON2,U News
-http://009900.live:8080/8299900028786814/8299900028786814/284836
-#EXTINF:-1 tvg-id="" tvg-name="beIN FATAFEAT" tvg-logo="http://91.208.162.66/arabic/fatafeat.png" group-title="BEINZ SPORTZ,beIN FATAFEAT
+#EXTINF:-1 tvg-id="" tvg-name="BEIN-FATAFEET" tvg-logo="" group-title="BEINZ SPORTZ",BEIN-FATAFEET
 http://009900.live:8080/8299900028786814/8299900028786814/285030
-#EXTINF:-1 tvg-id="" tvg-name="beIN Gourmet HD" tvg-logo="http://91.208.162.66/arabic/be_in_mena_gourmet_hd.png" group-title="BEINZ SPORTZ,beIN Gourmet HD
+#EXTINF:-1 tvg-id="" tvg-name="BEIN-GOURMET" tvg-logo="" group-title="BEINZ SPORTZ",BEIN-GOURMET
 http://009900.live:8080/8299900028786814/8299900028786814/285032
 #EXTINF:-1 tvg-id="" tvg-name="BEIN-1" tvg-logo="" group-title="BEINZ SPORTZ",BEIN-1
 http://009900.live:8080/live/8299900028786814/8299900028786814/3067.ts
