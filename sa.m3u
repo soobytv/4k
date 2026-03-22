@@ -13,6 +13,8 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
 #EXTINF:-1 tvg-id="" tvg-name="MAKANN" tvg-logo="" group-title="LEBANESE",MAKANN
 https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&amp;fmp4
+#EXTINF:-1 tvg-id="" tvg-name="IRAN TV" tvg-logo="" group-title="LEBANESE",IRAN TV
+https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MANAR" tvg-logo="" group-title="LEBANESE",MANAR
 https://edge.fastpublish.me/live/index.m3u8
 #EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
