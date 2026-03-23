@@ -32,7 +32,9 @@ https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEST TV" tvg-logo="" group-title="LEBANESE",TEST TV
-https://samaflix.com:12103/channel7/index.m3u8
+https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEST2 TV" tvg-logo="" group-title="LEBANESE",TEST2 TV
+https://www.web24iptv.online/hls_lbn?url=https://samaflix.com:12103/channel2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
