@@ -143,6 +143,234 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
 http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="Entertainment",1VOD-Documentary
 http://185.104.71.236:25461/live/ST/ST/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sports",AR: beIN Sports 1 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101638
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sports",AR: beIN Sports 2 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101639
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports 3 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101640
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sports",AR: beIN Sports 4 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101641
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sports",AR: beIN Sports 5 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101642
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sports",AR: beIN Sports 6 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101643
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 HD" tvg-logo="http://platinumxmedia.xyz:8080/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="Bein Sports",AR: beIN Sports 7 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101644
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 1 (ENG) HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="Bein Sports",AR: bein Sports 1 (ENG) HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101645
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 2 (ENG) HD" tvg-logo="http://platinumxmedia.xyz:8080/images/a733f8868555620556c53ff670fcb934.png" group-title="Bein Sports",AR: bein Sports 2 (ENG) HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101646
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 3 (ENG) HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Bein Sports",AR: bein Sports 3 (ENG) HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101647
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b695b42b3450ee0151334103df4ce684.png" group-title="Bein Sports",AR: beIN Sports 1 PREMIUM HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101648
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/cfb1b3ff65a25617479f16211ef143a4.png" group-title="Bein Sports",AR: beIN Sports 2 PREMIUM HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101649
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 PREMIUM HD" tvg-logo="http://platinumxmedia.xyz:8080/images/70957d5563c2b7af2a9105bc1164cec3.png" group-title="Bein Sports",AR: beIN Sports 3 PREMIUM HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101650
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sports",AR: beIN Sports 1 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101651
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sports",AR: beIN Sports 2 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101652
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports 3 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101653
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sports",AR: beIN Sports 4 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101654
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sports",AR: beIN Sports 5 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101655
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sports",AR: beIN Sports 6 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101656
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="Bein Sports",AR: beIN Sports 7 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101657
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 PREMIUM SD" tvg-logo="http://platinumxmedia.xyz:8080/images/b695b42b3450ee0151334103df4ce684.png" group-title="Bein Sports",AR: beIN Sports 1 PREMIUM SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101658
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 PREMIUM SD" tvg-logo="http://platinumxmedia.xyz:8080/images/cfb1b3ff65a25617479f16211ef143a4.png" group-title="Bein Sports",AR: beIN Sports 2 PREMIUM SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101659
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 PREMIUM SD" tvg-logo="http://platinumxmedia.xyz:8080/images/70957d5563c2b7af2a9105bc1164cec3.png" group-title="Bein Sports",AR: beIN Sports 3 PREMIUM SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101660
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sports",AR: beIN Sports 1 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101661
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sports",AR: beIN Sports 2 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101662
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports 3 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101663
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sports",AR: beIN Sports 4 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101664
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sports",AR: beIN Sports 5 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101665
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sports",AR: beIN Sports 6 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101666
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="Bein Sports",AR: beIN Sports 7 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101667
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 1 (ENG) SD" tvg-logo="http://platinumxmedia.xyz:8080/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="Bein Sports",AR: bein Sports 1 (ENG) SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101668
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 2 (ENG) SD" tvg-logo="http://platinumxmedia.xyz:8080/images/a733f8868555620556c53ff670fcb934.png" group-title="Bein Sports",AR: bein Sports 2 (ENG) SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101669
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 PREMIUM FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/b695b42b3450ee0151334103df4ce684.png" group-title="Bein Sports",AR: beIN Sports 1 PREMIUM FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101670
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 PREMIUM FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/cfb1b3ff65a25617479f16211ef143a4.png" group-title="Bein Sports",AR: beIN Sports 2 PREMIUM FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101671
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 PREMIUM FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/70957d5563c2b7af2a9105bc1164cec3.png" group-title="Bein Sports",AR: beIN Sports 3 PREMIUM FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101672
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 (ENG) FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Bein Sports",AR: beIN Sports 3 (ENG) FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101673
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 (ENG) FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/a733f8868555620556c53ff670fcb934.png" group-title="Bein Sports",AR: beIN Sports 2 (ENG) FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101674
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sports",AR: beIN Sports 1 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101676
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sports",AR: beIN Sports 2 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101677
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports 3 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101678
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 4 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sports",AR: beIN Sports 4 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101679
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 5 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sports",AR: beIN Sports 5 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101680
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 6 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sports",AR: beIN Sports 6 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101681
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 7 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="Bein Sports",AR: beIN Sports 7 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101682
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Xtra 1 SD" tvg-logo="http://platinumxmedia.xyz:8080/images/e2163e0d5cf27f29975a5db323efe682.png" group-title="Bein Sports",AR: beIN Sports Xtra 1 SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101683
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Xtra 1 Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/e2163e0d5cf27f29975a5db323efe682.png" group-title="Bein Sports",AR: beIN Sports Xtra 1 Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101685
+#EXTINF:-1 tvg-id="" tvg-name="AR: bein Sports 3 (ENG) SD" tvg-logo="http://platinumxmedia.xyz:8080/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Bein Sports",AR: bein Sports 3 (ENG) SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101686
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2 HD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/cd1285d8e5cdc73e61fa3fa23e273c21.png" group-title="Bein Sports",AR: beIN Sports Max 2 HD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101688
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 3 HD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports Max 3 HD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101689
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 4 HD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/67a59c8ad6be8a58eb0b81a88cb16ba1.png" group-title="Bein Sports",AR: beIN Sports Max 4 HD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101690
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 2 SD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/cd1285d8e5cdc73e61fa3fa23e273c21.png" group-title="Bein Sports",AR: beIN Sports Max 2 SD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101692
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 3 SD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sports",AR: beIN Sports Max 3 SD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101693
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 4 SD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/67a59c8ad6be8a58eb0b81a88cb16ba1.png" group-title="Bein Sports",AR: beIN Sports Max 4 SD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101694
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports News HD" tvg-logo="http://platinumxmedia.xyz:8080/images/63cb62a8fc2eb549e8ee6b9a7978c42e.png" group-title="Bein Sports",AR: beIN Sports News HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101695
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports News SD" tvg-logo="http://platinumxmedia.xyz:8080/images/63cb62a8fc2eb549e8ee6b9a7978c42e.png" group-title="Bein Sports",AR: beIN Sports News SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101697
+#EXTINF:-1 tvg-id="" tvg-name="AR:  Sharjah Sport   FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/25f63c1650f0bcd1cd32e3b4e5cc7292.png" group-title="Bein Sports",AR:  Sharjah Sport   FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101698
+#EXTINF:-1 tvg-id="" tvg-name="AR: KSA Sport 2  FHD" tvg-logo="http://platinumxmedia.xyz:2082/resize.php?max=42&url=https://www.kindpng.com/picc/m/599-5998237_ksa-sports-logo-png-png-download-ksa-sports.png" group-title="Bein Sports",AR: KSA Sport 2  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101699
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 PREMIUM Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/b695b42b3450ee0151334103df4ce684.png" group-title="Bein Sports",AR: beIN Sports 1 PREMIUM Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101700
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 PREMIUM Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/cfb1b3ff65a25617479f16211ef143a4.png" group-title="Bein Sports",AR: beIN Sports 2 PREMIUM Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101701
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 PREMIUM Full HD HEVC" tvg-logo="http://platinumxmedia.xyz:8080/images/70957d5563c2b7af2a9105bc1164cec3.png" group-title="Bein Sports",AR: beIN Sports 3 PREMIUM Full HD HEVC
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101702
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports HD" tvg-logo="http://platinumxmedia.xyz:8080/images/5df4c337722989678f8e5729dc956034.png" group-title="Bein Sports",AR: beIN Sports HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101703
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FOX Action movies " tvg-logo="http://platinumxmedia.xyz:8080/images/3807869186b183dcd30451e997f30b23.png" group-title="Bein Sports",AR: BEIN FOX Action movies 
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101704
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Star world  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/3460c5491abe079eda220bf9f0362e98.png" group-title="Bein Sports",AR: BEIN Star world  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101705
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Boomerang " tvg-logo="http://platinumxmedia.xyz:8080/images/e07e6b1ffa9a0f1604511fe83b39ef8a.png" group-title="Bein Sports",AR: BEIN Boomerang 
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101706
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Junior  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/5682cfd69ed9f6efdb7eb7a3b7ed2452.png" group-title="Bein Sports",AR: BEIN Junior  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101707
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN DTX  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/1ea381ae8be1d73439471bff56a39598.png" group-title="Bein Sports",AR: BEIN DTX  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101708
+#EXTINF:-1 tvg-id="" tvg-name="AR:  BEIN AMC  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/64f2985b3636c2cb7b51b3aa4d1a5018.png" group-title="Bein Sports",AR:  BEIN AMC  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101709
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Outdoor  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6cf9cebba6ac39f2953ea06dfe5729c5.png" group-title="Bein Sports",AR: BEIN Outdoor  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101710
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Boomerang  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e07e6b1ffa9a0f1604511fe83b39ef8a.png" group-title="Bein Sports",AR: BEIN Boomerang  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101711
+#EXTINF:-1 tvg-id="" tvg-name="AR:  BEIN Jeem   HD" tvg-logo="https://e7.pngegg.com/pngimages/482/774/png-clipart-jeem-tv-satellite-television-television-channel-bein-sports-others-television-logo.png" group-title="Bein Sports",AR:  BEIN Jeem   HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101712
+#EXTINF:-1 tvg-id="" tvg-name="AR: Baraeem  | Bein  FHD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/2ff23aa547f4a87140c74c13f508476a.png" group-title="Bein Sports",AR: Baraeem  | Bein  FHD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101713
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Food network  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/9bc111fe90e59efcc34f9691a9231ba4.png" group-title="Bein Sports",AR: BEIN Food network  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101714
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Discovery KIDS  SD" tvg-logo="http://platinumxmedia.xyz:8080/images/d1571837137a29794dfebbd1e7cb50d9.png" group-title="Bein Sports",AR: BEIN Discovery KIDS  SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101716
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FOX   HD" tvg-logo="http://platinumxmedia.xyz:8080/images/8c449e10ed598be0444b91740267911d.png" group-title="Bein Sports",AR: BEIN FOX   HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101717
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FOX crime  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/13fe17645c2aadccad3ad32fd53de96d.png" group-title="Bein Sports",AR: BEIN FOX crime  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101719
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Action HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7be0bc89a0767d6f6a1b98e77dd8b6e3.png" group-title="Bein Sports",AR: BEIN Action HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101720
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN BOX OFFICE 1  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/9136da85e3cbb294ddb8a5ef0e81c4a5.png" group-title="Bein Sports",AR: BEIN BOX OFFICE 1  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101721
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Classic  HD OFFLINE" tvg-logo="https://e7.pngegg.com/pngimages/144/282/png-clipart-logo-bein-media-group-bein-sports-high-definition-television-film-others-love-text.png" group-title="Bein Sports",AR: BEIN Classic  HD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101722
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Fatafeat  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/d9bb93d35ca96ea53f0285c4011d96c3.png" group-title="Bein Sports",AR: BEIN Fatafeat  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101725
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN FOX movies family  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4cafa9fe7ed4348adaa1f67ab0929f27.png" group-title="Bein Sports",AR: BEIN FOX movies family  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101726
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Gourmet HD" tvg-logo="http://platinumxmedia.xyz:8080/images/2375dd9d4862767f6cd3cf2e625dc7ce.png" group-title="Bein Sports",AR: BEIN Gourmet HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101727
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN HGTV  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/e064873b989a4acf962a2df0dca13418.png" group-title="Bein Sports",AR: BEIN HGTV  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101728
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Series 1  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3032c4b427680eaaeb1cae2db195c242.png" group-title="Bein Sports",AR: BEIN Series 1  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101729
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Series 2  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b8cd858c6bc6d7827df214e52d359516.png" group-title="Bein Sports",AR: BEIN Series 2  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101730
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Movies 1  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/bb9704b9b740757408ea8a877583c30c.png" group-title="Bein Sports",AR: BEIN Movies 1  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101731
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Movies 2   FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/fce6d22991841c7c0518fae3a22326df.png" group-title="Bein Sports",AR: BEIN Movies 2   FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101732
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Movies 4  FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/4cafa9fe7ed4348adaa1f67ab0929f27.png" group-title="Bein Sports",AR: BEIN Movies 4  FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101734
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Star movies  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/cf599c1fbc8f4ffe59c9b974ee9406b1.png" group-title="Bein Sports",AR: BEIN Star movies  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101735
+#EXTINF:-1 tvg-id="" tvg-name="AR: Toyor Aljanah | BEIN " tvg-logo="http://platinumxmedia.xyz:8080/images/116ca352d597985680488c0601be6274.PNG" group-title="Bein Sports",AR: Toyor Aljanah | BEIN 
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101736
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN Cartoon Network   FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Cartoon_Network_logo.svg/2560px-Cartoon_Network_logo.svg.png" group-title="Bein Sports",AR: BEIN Cartoon Network   FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101737
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN | Space Toon | Kids  HD" tvg-logo="http://platinumxmedia.xyz:8080/images/b6fdb7167021aafd0d4537f59dd68c26.png" group-title="Bein Sports",AR: BEIN | Space Toon | Kids  HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101738
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Xtra 1 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/e2163e0d5cf27f29975a5db323efe682.png" group-title="Bein Sports",AR: beIN Sports Xtra 1 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101740
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 5 HD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/53afd726b609599e356b49e6974be3fa.png" group-title="Bein Sports",AR: beIN Sports Max 5 HD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101741
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Xtra 2 FHD" tvg-logo="http://platinumxmedia.xyz:8080/images/3432e54ba3117fe83fff506763f87b3f.png" group-title="Bein Sports",AR: beIN Sports Xtra 2 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101742
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports Max 5 SD OFFLINE" tvg-logo="http://platinumxmedia.xyz:8080/images/53afd726b609599e356b49e6974be3fa.png" group-title="Bein Sports",AR: beIN Sports Max 5 SD OFFLINE
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101743
+#EXTINF:-1 tvg-id="" tvg-name="EN: Bein Sports 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",EN: Bein Sports 1 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101750
+#EXTINF:-1 tvg-id="" tvg-name="EN: BEIN SPORTS 2 FHD" tvg-logo="https://curl.pk/img/u/c2f250dc03eeda2e7ba494da28c053916641.png" group-title="Bein Sports",EN: BEIN SPORTS 2 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101753
+#EXTINF:-1 tvg-id="" tvg-name="BS: beIN SPORTS 5 4K" tvg-logo="https://curl.pk/img/u/dc86ed52ac3f9263ef1662eab984ce595557.png" group-title="Bein Sports",BS: beIN SPORTS 5 4K
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101760
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sports 7 4K" tvg-logo="https://curl.pk/img/u/0c1273f755652c6cc102ef90f9d33fb78890.png" group-title="Bein Sports",beIN Sports 7 4K
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101762
+#EXTINF:-1 tvg-id="" tvg-name="UK: beIN Sports 8" tvg-logo="https://curl.pk/img/u/e30ea96bde70c40a28dd17e061718b167725.png" group-title="Bein Sports",UK: beIN Sports 8
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101764
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sports 10 FHD" tvg-logo="https://curl.pk/img/u/622f6f624b1b55984846bf3acea67aaa526.png" group-title="Bein Sports",AR: Bein Sports 10 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101766
+#EXTINF:-1 tvg-id="" tvg-name="EN: Bein Sport 12 FHD" tvg-logo="https://curl.pk/img/u/c9d1a3faa9d94dbe71fcf7bea735ee635702.png" group-title="Bein Sports",EN: Bein Sport 12 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101767
+#EXTINF:-1 tvg-id="" tvg-name="UNION beIN SPORTS 1 PREMIUM SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",UNION beIN SPORTS 1 PREMIUM SD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101768
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 1 Premium FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 1 Premium FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101769
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS Premium 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS Premium 2 HD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101770
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 PREMIUM" tvg-logo="https://curl.pk/img/u/c2f250dc03eeda2e7ba494da28c053916641.png" group-title="Bein Sports",beIN SPORTS 2 PREMIUM
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101771
+#EXTINF:-1 tvg-id="" tvg-name="AR: BEIN SPORTS 3 Premium FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="Bein Sports",AR: BEIN SPORTS 3 Premium FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101772
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport MAX 1 FHD" tvg-logo="https://curl.pk/img/u/5d64045591f555e8cc0e8d2d191134593.png" group-title="Bein Sports",BEIN sport MAX 1 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101774
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport MAX 2 FHD" tvg-logo="https://curl.pk/img/u/60ff9c950ec74b006f250e94ee5842f59366.png" group-title="Bein Sports",BEIN sport MAX 2 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101775
+#EXTINF:-1 tvg-id="" tvg-name="BEIN sport MAX 4 FHD" tvg-logo="https://curl.pk/img/u/399be547b595b7634c1b97a35550f3d29737.png" group-title="Bein Sports",BEIN sport MAX 4 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101776
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 5 FHD" tvg-logo="https://curl.pk/img/u/1ec9928377b4ed78260918bdb33c788c8109.png" group-title="Bein Sports",BeIN Sport Max 5 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101777
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 6 FHD" tvg-logo="https://curl.pk/img/u/b117873ea91f8996a0524ba8e8c146a26453.png" group-title="Bein Sports",BeIN Sport Max 6 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101778
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 1 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="Bein Sports",beIN SPORTS XTRA 1 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101779
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS XTRA 2 FHD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="Bein Sports",beIN SPORTS XTRA 2 FHD
+http://live.iptvtotaal.com:8000/513463512215/814362424133/101780
 #EXTINF:-1 tvg-id="" tvg-name="SERIE A" tvg-logo="" group-title="ARABIC SPORTS,SERIE A
 http://176.97.122.93:8080/8299900028786814/8299900028786814/249476
 #EXTINF:-1 tvg-id="" tvg-name="ABU DHABI 1 PREMIUM HD" tvg-logo="" group-title="ARABIC SPORTS,ABU DHABI 1 PREMIUM HD
