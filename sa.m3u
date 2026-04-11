@@ -143,198 +143,410 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
 http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="Entertainment",1VOD-Documentary
 http://185.104.71.236:25461/live/ST/ST/40.ts
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Global 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport Global 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/22186
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport News 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318230
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 1 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318197
-#EXTINF:-1 tvg-ID="" tvg-name="beIN1 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN1 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391094
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 2 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318198
-#EXTINF:-1 tvg-ID="" tvg-name="beIN2 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN2 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391095
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 3 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318199
-#EXTINF:-1 tvg-ID="" tvg-name="beIN3 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN3 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391096
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 4k" tvg-logo="" group-title="beIN Sport 4K",beIN Sport 4 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440580
-#EXTINF:-1 tvg-ID="" tvg-name="beIN4 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN4 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391097
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 5 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318201
-#EXTINF:-1 tvg-ID="" tvg-name="beIN5 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN5 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391098
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 6 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318202
-#EXTINF:-1 tvg-ID="" tvg-name="beIN6 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN6 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391099
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 7 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318203
-#EXTINF:-1 tvg-ID="" tvg-name="beIN7 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN7 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391100
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 8 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318204
-#EXTINF:-1 tvg-ID="" tvg-name="beIN8 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN8 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391101
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 4k" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport 9 4k
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318205
-#EXTINF:-1 tvg-ID="" tvg-name="beIN9 H265" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN9 H265
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391102
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 1 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 1 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325790
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 2 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 2 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319487
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 3 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport XTRA 3 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319488
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 4 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 4 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440569
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 5 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 5 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440570
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 6 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 6 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440571
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 7 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 7 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447243
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport XTRA 8 4K" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport XTRA 8 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447244
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/374857
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 1 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 1 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319490
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 2 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 2 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319491
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 3 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 3 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/384382
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 4 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 4 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391103
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport AFC 5 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport AFC",beIN Sport AFC 5 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/391104
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA 4K" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport 4K",beIN Sport NBA 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319499
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Global HD" tvg-logo="" group-title="beIN Sport HD",beIN Global HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/442220
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport News HD" tvg-logo="" group-title="beIN Sport HD",beIN Sport News HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/443146
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 1 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325793
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 2 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325794
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 3 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325795
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 4 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325796
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 5 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325797
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 6 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325798
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 7 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325799
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 8 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325800
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport 9 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325802
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 2 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 2 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319435
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 3 HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport Xtra 3 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319436
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 4 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 4 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440572
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 5 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 5 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440573
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 6 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 6 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440574
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 7 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 7 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447246
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 8 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 8 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447247
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport Xtra 9 HD" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport Xtra 9 HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447248
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport NBA HD" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport HD",beIN Sport NBA HD
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/318219
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 1 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325803
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 2 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325804
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 3 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 3 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325805
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 4 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 4 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325806
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 5 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 5 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325807
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 6 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 6 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325808
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 7 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 7 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325809
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 8 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 8 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325810
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport 9 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport SD",beIN Sport 9 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325811
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 1 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 1 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/325812
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 2 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 2 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319423
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 3 sd" tvg-logo="http://163.172.39.182:80/logo/bein.jpg" group-title="beIN Sport Xtra",beIN Sport xtra 3 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319424
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 4 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 4 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440575
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 5 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 5 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440576
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 6 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 6 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/440577
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 7 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 7 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447249
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 8 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 8 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447250
-#EXTINF:-1 tvg-ID="" tvg-name="beIN Sport xtra 9 sd" tvg-logo="" group-title="beIN Sport Xtra",beIN Sport xtra 9 sd
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/447251
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 01" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 01
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/245995
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 02" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 02
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/245996
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 03" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 03
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/245997
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 04" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 04
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/245998
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 05" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 05
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/245999
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 06" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 06
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246000
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 07" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 07
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246001
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 08" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 08
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246002
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 09" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 09
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246003
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 10" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 10
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246004
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 11" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 11
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246005
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 12" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 12
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246006
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 13" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 13
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246007
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 14" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 14
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246008
-#EXTINF:-1 tvg-ID="" tvg-name="BoxOffice 15" tvg-logo="http://163.172.39.182:80/logo/boxoffice.png" group-title="BoxOffice",BoxOffice 15
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/246009
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 1
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319672
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 2
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319673
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 3
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319674
-#EXTINF:-1 tvg-ID="" tvg-name="beIN MOVIES 4K 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN MOVIES 4K 4
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319675
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 1
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319676
-#EXTINF:-1 tvg-ID="" tvg-name="beIN SERIES 4K 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN SERIES 4K 2
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319677
-#EXTINF:-1 tvg-ID="" tvg-name="beIN DRAMA 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN DRAMA 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319678
-#EXTINF:-1 tvg-ID="" tvg-name="beIN FOX MOVIES 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOVIES 4K
-http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319679
+#EXTINF:-1 tvg-id="" tvg-name="beIN SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="beIN SP",beIN SP
+https://watch2.eighty-eight.watch:8443/free/free/473.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/474.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/475.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (C)
+https://watch2.eighty-eight.watch:8443/free/free/476.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (D)
+https://watch2.eighty-eight.watch:8443/free/free/477.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (E)
+https://watch2.eighty-eight.watch:8443/free/free/478.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 (F)
+https://watch2.eighty-eight.watch:8443/free/free/479.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-logo-02.webp" group-title="beIN SP",beIN Sport 1 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/480.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/481.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/482.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (C)
+https://watch2.eighty-eight.watch:8443/free/free/483.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (D)
+https://watch2.eighty-eight.watch:8443/free/free/484.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (E)
+https://watch2.eighty-eight.watch:8443/free/free/485.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 (F)
+https://watch2.eighty-eight.watch:8443/free/free/486.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-logo-02.webp" group-title="beIN SP",beIN Sport 2 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/487.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 (A)
+https://watch2.eighty-eight.watch:8443/free/free/488.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 (B)
+https://watch2.eighty-eight.watch:8443/free/free/489.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 (C)
+https://watch2.eighty-eight.watch:8443/free/free/490.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 (D)
+https://watch2.eighty-eight.watch:8443/free/free/491.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 (E)
+https://watch2.eighty-eight.watch:8443/free/free/492.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-logo-02.webp" group-title="beIN SP",beIN Sport 3 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/493.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 (A)
+https://watch2.eighty-eight.watch:8443/free/free/494.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 (B)
+https://watch2.eighty-eight.watch:8443/free/free/495.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 (C)
+https://watch2.eighty-eight.watch:8443/free/free/496.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 (D)
+https://watch2.eighty-eight.watch:8443/free/free/497.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 (E)
+https://watch2.eighty-eight.watch:8443/free/free/498.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-4-logo-02.webp" group-title="beIN SP",beIN Sport 4 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/499.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (A)
+https://watch2.eighty-eight.watch:8443/free/free/500.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (B)
+https://watch2.eighty-eight.watch:8443/free/free/501.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (C)
+https://watch2.eighty-eight.watch:8443/free/free/502.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (D)
+https://watch2.eighty-eight.watch:8443/free/free/503.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (E)
+https://watch2.eighty-eight.watch:8443/free/free/504.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 (F)
+https://watch2.eighty-eight.watch:8443/free/free/505.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-5-logo-02.webp" group-title="beIN SP",beIN Sport 5 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/506.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 (A)
+https://watch2.eighty-eight.watch:8443/free/free/507.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 (B)
+https://watch2.eighty-eight.watch:8443/free/free/508.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 (C)
+https://watch2.eighty-eight.watch:8443/free/free/509.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 (D)
+https://watch2.eighty-eight.watch:8443/free/free/510.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 (E)
+https://watch2.eighty-eight.watch:8443/free/free/511.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-6-logo-02.webp" group-title="beIN SP",beIN Sport 6 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/512.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (A)
+https://watch2.eighty-eight.watch:8443/free/free/513.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (B)
+https://watch2.eighty-eight.watch:8443/free/free/514.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (C)
+https://watch2.eighty-eight.watch:8443/free/free/515.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (D)
+https://watch2.eighty-eight.watch:8443/free/free/516.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (E)
+https://watch2.eighty-eight.watch:8443/free/free/517.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (F)
+https://watch2.eighty-eight.watch:8443/free/free/518.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 (G)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 (G)
+https://watch2.eighty-eight.watch:8443/free/free/519.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-7-logo-02.webp" group-title="beIN SP",beIN Sport 7 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/520.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 (A)
+https://watch2.eighty-eight.watch:8443/free/free/521.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 (B)
+https://watch2.eighty-eight.watch:8443/free/free/522.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 (C)
+https://watch2.eighty-eight.watch:8443/free/free/523.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 (D)
+https://watch2.eighty-eight.watch:8443/free/free/524.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 (E)
+https://watch2.eighty-eight.watch:8443/free/free/525.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-8-logo-02.webp" group-title="beIN SP",beIN Sport 8 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/526.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (A)
+https://watch2.eighty-eight.watch:8443/free/free/527.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (B)
+https://watch2.eighty-eight.watch:8443/free/free/528.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (C)
+https://watch2.eighty-eight.watch:8443/free/free/529.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (D)
+https://watch2.eighty-eight.watch:8443/free/free/530.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (E)
+https://watch2.eighty-eight.watch:8443/free/free/531.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 (F)
+https://watch2.eighty-eight.watch:8443/free/free/532.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 [ LIVE EVENTS ]" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-9-logo-02.webp" group-title="beIN SP",beIN Sport 9 [ LIVE EVENTS ]
+https://watch2.eighty-eight.watch:8443/free/free/533.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 XTRA (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 1 XTRA (A)
+https://watch2.eighty-eight.watch:8443/free/free/534.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 XTRA (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 1 XTRA (B)
+https://watch2.eighty-eight.watch:8443/free/free/535.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 XTRA (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 2 XTRA (A)
+https://watch2.eighty-eight.watch:8443/free/free/536.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 XTRA (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 2 XTRA (B)
+https://watch2.eighty-eight.watch:8443/free/free/537.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 XTRA (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 3 XTRA (A)
+https://watch2.eighty-eight.watch:8443/free/free/538.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 XTRA (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-Xrta-logo-02.webp" group-title="beIN SP",beIN Sport 3 XTRA (B)
+https://watch2.eighty-eight.watch:8443/free/free/539.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-Global-logo-02.webp" group-title="beIN SP",beIN Sport Global (A)
+https://watch2.eighty-eight.watch:8443/free/free/540.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-Global-logo-02.webp" group-title="beIN SP",beIN Sport Global (B)
+https://watch2.eighty-eight.watch:8443/free/free/541.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-Global-logo-02.webp" group-title="beIN SP",beIN Sport Global (C)
+https://watch2.eighty-eight.watch:8443/free/free/542.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport Global (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-Global-logo-02.webp" group-title="beIN SP",beIN Sport Global (D)
+https://watch2.eighty-eight.watch:8443/free/free/543.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport News (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-News-logo-02.webp" group-title="beIN SP",beIN Sport News (A)
+https://watch2.eighty-eight.watch:8443/free/free/544.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport News (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-News-logo-02.webp" group-title="beIN SP",beIN Sport News (B)
+https://watch2.eighty-eight.watch:8443/free/free/545.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 English (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-En-logo-02.webp" group-title="beIN SP",beIN Sport 1 English (A)
+https://watch2.eighty-eight.watch:8443/free/free/546.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 English (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-En-logo-02.webp" group-title="beIN SP",beIN Sport 1 English (B)
+https://watch2.eighty-eight.watch:8443/free/free/547.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 English (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-En-logo-02.webp" group-title="beIN SP",beIN Sport 2 English (A)
+https://watch2.eighty-eight.watch:8443/free/free/548.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 English (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-En-logo-02.webp" group-title="beIN SP",beIN Sport 2 English (B)
+https://watch2.eighty-eight.watch:8443/free/free/549.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 English" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-En-logo-02.webp" group-title="beIN SP",beIN Sport 3 English
+https://watch2.eighty-eight.watch:8443/free/free/550.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 AU" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-Au-logo-02.webp" group-title="beIN SP",beIN Sport 1 AU
+https://watch2.eighty-eight.watch:8443/free/free/551.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 AU" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-Au-logo-02.webp" group-title="beIN SP",beIN Sport 2 AU
+https://watch2.eighty-eight.watch:8443/free/free/552.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 AU" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-3-Au-logo-02.webp" group-title="beIN SP",beIN Sport 3 AU
+https://watch2.eighty-eight.watch:8443/free/free/553.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 US" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-1-US-logo-02.webp" group-title="beIN SP",beIN Sport 1 US
+https://watch2.eighty-eight.watch:8443/free/free/554.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 US" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bein-Sports-2-US-logo-02.webp" group-title="beIN SP",beIN Sport 2 US
+https://watch2.eighty-eight.watch:8443/free/free/555.ts
+#EXTINF:-1 tvg-id="" tvg-name="UAE SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="UAE SP",UAE SP
+https://watch2.eighty-eight.watch:8443/free/free/836.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live UAE SP" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="UAE SP",eighty eight Live UAE SP
+https://watch2.eighty-eight.watch:8443/free/free/836.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/AD-Sports-1-logo-02.webp" group-title="UAE SP",Abu Dhabi Sports 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/837.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/AD-Sports-1-logo-02.webp" group-title="UAE SP",Abu Dhabi Sports 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/838.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/AD-Sports-2-logo-02.webp" group-title="UAE SP",Abu Dhabi Sports 2
+https://watch2.eighty-eight.watch:8443/free/free/839.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-1-logo-02.webp" group-title="UAE SP",StarzPlay 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/840.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-1-logo-02.webp" group-title="UAE SP",StarzPlay 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/841.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-2-logo-02.webp" group-title="UAE SP",StarzPlay 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/842.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-2-logo-02.webp" group-title="UAE SP",StarzPlay 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/843.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 3 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-3-logo-02.webp" group-title="UAE SP",StarzPlay 3 (A)
+https://watch2.eighty-eight.watch:8443/free/free/844.ts
+#EXTINF:-1 tvg-id="" tvg-name="StarzPlay 3 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/StarzPlay-3-logo-02.webp" group-title="UAE SP",StarzPlay 3 (B)
+https://watch2.eighty-eight.watch:8443/free/free/845.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Dubai-Sports-1-logo-02.webp" group-title="UAE SP",Dubai Sports 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/846.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Dubai-Sports-1-logo-02.webp" group-title="UAE SP",Dubai Sports 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/847.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Dubai-Sports-2-logo-02.webp" group-title="UAE SP",Dubai Sports 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/848.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Dubai-Sports-3-logo-02.webp" group-title="UAE SP",Dubai Sports 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/849.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharjah Sports (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Sharjah-Sports-logo-02.webp" group-title="UAE SP",Al Sharjah Sports (A)
+https://watch2.eighty-eight.watch:8443/free/free/850.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Sharjah Sports (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Sharjah-Sports-logo-02.webp" group-title="UAE SP",Al Sharjah Sports (B)
+https://watch2.eighty-eight.watch:8443/free/free/851.ts
+#EXTINF:-1 tvg-id="" tvg-name="Saudi SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="Saudi SP",Saudi SP
+https://watch2.eighty-eight.watch:8443/free/free/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live Saudi SP" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="Saudi SP",eighty eight Live Saudi SP
+https://watch2.eighty-eight.watch:8443/free/free/945.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-1-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/946.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-1-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/947.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 1 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-1-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 1 (C)
+https://watch2.eighty-eight.watch:8443/free/free/948.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 1 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-1-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 1 (D)
+https://watch2.eighty-eight.watch:8443/free/free/949.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-2-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/950.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-2-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/951.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 2 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-2-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 2 (C)
+https://watch2.eighty-eight.watch:8443/free/free/952.ts
+#EXTINF:-1 tvg-id="" tvg-name="THMANYAH Sports 3 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/THMANYAH-3-Sports-logo-02.webp" group-title="Saudi SP",THMANYAH Sports 3 (A)
+https://watch2.eighty-eight.watch:8443/free/free/953.ts
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 1" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/KSA-Sports-1-logo-03.webp" group-title="Saudi SP",KSA Sports 1
+https://watch2.eighty-eight.watch:8443/free/free/954.ts
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 2" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/KSA-Sports-2-logo-03.webp" group-title="Saudi SP",KSA Sports 2
+https://watch2.eighty-eight.watch:8443/free/free/955.ts
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 3" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/KSA-Sports-3-logo-03.webp" group-title="Saudi SP",KSA Sports 3
+https://watch2.eighty-eight.watch:8443/free/free/956.ts
+#EXTINF:-1 tvg-id="" tvg-name="KSA Sports 4" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/KSA-Sports-4-logo-03.webp" group-title="Saudi SP",KSA Sports 4
+https://watch2.eighty-eight.watch:8443/free/free/957.ts
+#EXTINF:-1 tvg-id="" tvg-name="STC Sports" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/STC-Sports-logo-02.webp" group-title="Saudi SP",STC Sports
+https://watch2.eighty-eight.watch:8443/free/free/958.ts
+#EXTINF:-1 tvg-id="" tvg-name="ShaSha SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="ShaSha SP",ShaSha SP
+https://watch2.eighty-eight.watch:8443/free/free/1053.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live ShaSha SP" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="ShaSha SP",eighty eight Live ShaSha SP
+https://watch2.eighty-eight.watch:8443/free/free/1053.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHASHA SPORT 1" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Shasha-1-logo-02.webp" group-title="ShaSha SP",SHASHA SPORT 1
+https://watch2.eighty-eight.watch:8443/free/free/1054.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHASHA SPORT 2" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Shasha-2-logo-02.webp" group-title="ShaSha SP",SHASHA SPORT 2
+https://watch2.eighty-eight.watch:8443/free/free/1055.ts
+#EXTINF:-1 tvg-id="" tvg-name="SHASHA SPORT 3" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Shasha-3-logo-02.webp" group-title="ShaSha SP",SHASHA SPORT 3
+https://watch2.eighty-eight.watch:8443/free/free/1056.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALKass SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="ALKass SP",ALKass SP
+https://watch2.eighty-eight.watch:8443/free/free/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live ALKass SP" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="ALKass SP",eighty eight Live ALKass SP
+https://watch2.eighty-eight.watch:8443/free/free/1080.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-1-logo-02.webp" group-title="ALKass SP",AL KASS 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1081.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-1-logo-02.webp" group-title="ALKass SP",AL KASS 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1082.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-2-logo-02.webp" group-title="ALKass SP",AL KASS 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1083.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-2-logo-02.webp" group-title="ALKass SP",AL KASS 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1084.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 3 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-3-logo-02.webp" group-title="ALKass SP",AL KASS 3 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1085.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 3 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-3-logo-02.webp" group-title="ALKass SP",AL KASS 3 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1086.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 4 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-4-logo-02.webp" group-title="ALKass SP",AL KASS 4 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1087.ts
+#EXTINF:-1 tvg-id="" tvg-name="AL KASS 4 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/alkass-4-logo-02.webp" group-title="ALKass SP",AL KASS 4 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1088.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arabic SP"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="Arabic SP",Arabic SP
+https://watch2.eighty-eight.watch:8443/free/free/1206.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live Arabic SP" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="Arabic SP",eighty eight Live Arabic SP
+https://watch2.eighty-eight.watch:8443/free/free/1206.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1207.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1208.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (C)
+https://watch2.eighty-eight.watch:8443/free/free/1209.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (D)
+https://watch2.eighty-eight.watch:8443/free/free/1210.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (E)
+https://watch2.eighty-eight.watch:8443/free/free/1211.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (F)
+https://watch2.eighty-eight.watch:8443/free/free/1212.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (G)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (G)
+https://watch2.eighty-eight.watch:8443/free/free/1213.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 1 (H)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-1-logo-02.webp" group-title="Arabic SP",ON Sport 1 (H)
+https://watch2.eighty-eight.watch:8443/free/free/1214.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-2-logo-02.webp" group-title="Arabic SP",ON Sport 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1215.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-2-logo-02.webp" group-title="Arabic SP",ON Sport 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1216.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 (D)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-2-logo-02.webp" group-title="Arabic SP",ON Sport 2 (D)
+https://watch2.eighty-eight.watch:8443/free/free/1217.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 (E)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-2-logo-02.webp" group-title="Arabic SP",ON Sport 2 (E)
+https://watch2.eighty-eight.watch:8443/free/free/1218.ts
+#EXTINF:-1 tvg-id="" tvg-name="ON Sport 2 (F)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/ON-Sports-2-logo-02.webp" group-title="Arabic SP",ON Sport 2 (F)
+https://watch2.eighty-eight.watch:8443/free/free/1219.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Kuwait-Sports-1-logo-02.webp" group-title="Arabic SP",Kuwait Sport 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1220.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Kuwait-Sports-1-logo-02.webp" group-title="Arabic SP",Kuwait Sport 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1221.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kuwait Sport 2" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Kuwait-Sports-2-logo-02.webp" group-title="Arabic SP",Kuwait Sport 2
+https://watch2.eighty-eight.watch:8443/free/free/1222.ts
+#EXTINF:-1 tvg-id="" tvg-name="Oman Sport" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Oman-Sport-logo-02.webp" group-title="Arabic SP",Oman Sport
+https://watch2.eighty-eight.watch:8443/free/free/1223.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 1 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bahrain-Sport-1-logo-02.webp" group-title="Arabic SP",Bahrain Sport 1 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1224.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 1 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bahrain-Sport-1-logo-02.webp" group-title="Arabic SP",Bahrain Sport 1 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1225.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 2 (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bahrain-Sport-2-logo-02.webp" group-title="Arabic SP",Bahrain Sport 2 (A)
+https://watch2.eighty-eight.watch:8443/free/free/1226.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bahrain Sport 2 (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Bahrain-Sport-2-logo-02.webp" group-title="Arabic SP",Bahrain Sport 2 (B)
+https://watch2.eighty-eight.watch:8443/free/free/1227.ts
+#EXTINF:-1 tvg-id="" tvg-name="Iraqia Sport" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Iraqia-Sport-logo-02.webp" group-title="Arabic SP",Iraqia Sport
+https://watch2.eighty-eight.watch:8443/free/free/1228.ts
+#EXTINF:-1 tvg-id="" tvg-name="Jordan Sport" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Jordan-Sport-logo-02.webp" group-title="Arabic SP",Jordan Sport
+https://watch2.eighty-eight.watch:8443/free/free/1229.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia Sport (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Arryadia-Sport-logo-02.webp" group-title="Arabic SP",Arryadia Sport (A)
+https://watch2.eighty-eight.watch:8443/free/free/1230.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia Sport (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Arryadia-Sport-logo-02.webp" group-title="Arabic SP",Arryadia Sport (B)
+https://watch2.eighty-eight.watch:8443/free/free/1231.ts
+#EXTINF:-1 tvg-id="" tvg-name="Libya Sport 1" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Libya-Sport-1-logo-02.webp" group-title="Arabic SP",Libya Sport 1
+https://watch2.eighty-eight.watch:8443/free/free/1232.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Ahly Sport Tv" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Ahly-Sport-logo-02.webp" group-title="Arabic SP",Al Ahly Sport Tv
+https://watch2.eighty-eight.watch:8443/free/free/1233.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Zamalek Sport Tv" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Zamalek-Sport-logo-02.webp" group-title="Arabic SP",Al Zamalek Sport Tv
+https://watch2.eighty-eight.watch:8443/free/free/1234.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Nile-Sports-logo-02.webp" group-title="Arabic SP",Nile Sport (A)
+https://watch2.eighty-eight.watch:8443/free/free/1235.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Nile-Sports-logo-02.webp" group-title="Arabic SP",Nile Sport (B)
+https://watch2.eighty-eight.watch:8443/free/free/1236.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nile Sport (C)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Nile-Sports-logo-02.webp" group-title="Arabic SP",Nile Sport (C)
+https://watch2.eighty-eight.watch:8443/free/free/1237.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARRYADIA TNT" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Arryadia-Morocco-logo-02.webp" group-title="Arabic SP",ARRYADIA TNT
+https://watch2.eighty-eight.watch:8443/free/free/1238.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARRYADIA LIVE (A)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Arryadia-Morocco-logo-02.webp" group-title="Arabic SP",ARRYADIA LIVE (A)
+https://watch2.eighty-eight.watch:8443/free/free/1239.ts
+#EXTINF:-1 tvg-id="" tvg-name="ARRYADIA LIVE (B)" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Arryadia-Morocco-logo-02.webp" group-title="Arabic SP",ARRYADIA LIVE (B)
+https://watch2.eighty-eight.watch:8443/free/free/1240.ts
+#EXTINF:-1 tvg-id="" tvg-name="News"  live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="News",News
+https://watch2.eighty-eight.watch:8443/free/free/1325.ts
+#EXTINF:-1 tvg-id="" tvg-name="eighty eight Live News" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/eighty-eight-ad.webp" group-title="News",eighty eight Live News
+https://watch2.eighty-eight.watch:8443/free/free/1325.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Sky-News-Arabia-logo-02.webp" group-title="News",Sky News Arabia (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1326.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Sky-News-Arabia-logo-02.webp" group-title="News",Sky News Arabia (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1327.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky News Arabia (C) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Sky-News-Arabia-logo-02.webp" group-title="News",Sky News Arabia (C) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1328.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya News (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-News-logo-02.webp" group-title="News",Al Arabiya News (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1329.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya News (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-News-logo-02.webp" group-title="News",Al Arabiya News (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1330.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya News (C) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-News-logo-02.webp" group-title="News",Al Arabiya News (C) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1331.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya News (D) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-News-logo-02.webp" group-title="News",Al Arabiya News (D) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1332.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya Business (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-Business-logo-02.webp" group-title="News",Al Arabiya Business (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1333.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya Business (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Arabiya-Business-logo-02.webp" group-title="News",Al Arabiya Business (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1334.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath News (A) ˢᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Hadath-News-logo-02.webp" group-title="News",Al Hadath News (A) ˢᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1335.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath News (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Hadath-News-logo-02.webp" group-title="News",Al Hadath News (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1336.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath News (C) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Hadath-News-logo-02.webp" group-title="News",Al Hadath News (C) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1337.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath News (D) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Hadath-News-logo-02.webp" group-title="News",Al Hadath News (D) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1338.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News Arabic (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/BBC-News-Arabic-logo-02.webp" group-title="News",BBC News Arabic (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1339.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News Arabic (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/BBC-News-Arabic-logo-02.webp" group-title="News",BBC News Arabic (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1340.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News World Arabic ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/BBC-News-World-logo-02.webp" group-title="News",BBC News World Arabic ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1341.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC News World EN ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/BBC-News-World-logo-02.webp" group-title="News",BBC News World EN ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1342.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News (A) ˢᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News (A) ˢᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1344.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News (C) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News (C) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1345.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News (D) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News (D) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News (E) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News (E) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1347.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News EN (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News EN (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1348.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News EN (B) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News EN (B) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1349.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News EN (C) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-News-logo-02.webp" group-title="News",Al Jazeera News EN (C) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1350.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Mubasher-logo-02.webp" group-title="News",Al Jazeera Mubasher (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1351.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Mubasher-logo-02.webp" group-title="News",Al Jazeera Mubasher (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher (C) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Mubasher-logo-02.webp" group-title="News",Al Jazeera Mubasher (C) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1353.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher 2 (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Mubasher-logo-02.webp" group-title="News",Al Jazeera Mubasher 2 (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1354.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Mubasher 2 (B) ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Mubasher-logo-02.webp" group-title="News",Al Jazeera Mubasher 2 (B) ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1355.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Documentary ⁴ᴷ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/Al-Jazeera-Documentary-logo-02.webp" group-title="News",Al Jazeera Documentary ⁴ᴷ
+https://watch2.eighty-eight.watch:8443/free/free/1356.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic (A) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/France-24-Arabic-News-logo-02.webp" group-title="News",France 24 Arabic (A) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1357.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic (B) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/France-24-Arabic-News-logo-02.webp" group-title="News",France 24 Arabic (B) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1358.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic (C) ᴴᴰ" live="1" tvg-logo="https://eighty-eight.live/wp-content/uploads/France-24-Arabic-News-logo-02.webp" group-title="News",France 24 Arabic (C) ᴴᴰ
+https://watch2.eighty-eight.watch:8443/free/free/1359.ts
 #EXTINF:-1 tvg-ID="" tvg-name="beIN FOX MOV ACTION 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX MOV ACTION 4K
 http://xlion.net:8080/6667543328887/THy94ND1cWvHun/319680
 #EXTINF:-1 tvg-ID="" tvg-name="beIN FOX LIFE 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Logo_beIN.png" group-title="beIN Entertainment",beIN FOX LIFE 4K
