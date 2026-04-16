@@ -37,6 +37,68 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AR: IFILM ARABIC" tvg-logo="http://pic.apkdt.co/pic/Lebanon/IFLIMI.png" group-title="LEBANON",AR: IFILM ARABIC
+http://xlion.net:8080/2551810583569940/2025565766597215/399225
+#EXTINF:-1 tvg-ID="" tvg-name="AR: SPI Lebanon" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Alaan.png" group-title="LEBANON",AR: SPI Lebanon
+http://xlion.net:8080/2551810583569940/2025565766597215/399226
+#EXTINF:-1 tvg-ID="" tvg-name="AR: Senses TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Alaan.png" group-title="LEBANON",AR: Senses TV
+http://xlion.net:8080/2551810583569940/2025565766597215/399227
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ARABICA 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Mtv.png" group-title="LEBANON",AR: ARABICA 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/399228
+#EXTINF:-1 tvg-ID="" tvg-name="AR: ALSIRAT TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Alsirat.png" group-title="LEBANON",AR: ALSIRAT TV
+http://xlion.net:8080/2551810583569940/2025565766597215/399231
+#EXTINF:-1 tvg-ID="" tvg-name="AR: U NEWS TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/NBNTV.png" group-title="LEBANON",AR: U NEWS TV
+http://xlion.net:8080/2551810583569940/2025565766597215/399236
+#EXTINF:-1 tvg-ID="" tvg-name="AR: TELELIBAN 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/TVLEB.png" group-title="LEBANON",AR: TELELIBAN 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/399238
+#EXTINF:-1 tvg-ID="" tvg-name="AR: VOICE OF LEBANON 4K" tvg-logo="" group-title="LEBANON",AR: VOICE OF LEBANON 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/399239
+#EXTINF:-1 tvg-ID="" tvg-name="AL MASHHAD 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Almashhad.png" group-title="LEBANON",AL MASHHAD 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/328715
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Jadeed -7H HD" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.Al Jadeed -7H HD
+http://xlion.net:8080/2551810583569940/2025565766597215/112485
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC TV Plus" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.LBC TV Plus
+http://xlion.net:8080/2551810583569940/2025565766597215/112487
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC 2 INTERNATIONAL" tvg-logo="http://pic.apkdt.co/pic/Lebanon/LBC2.png" group-title="LEBANON",LBN.LBC 2 INTERNATIONAL
+http://xlion.net:8080/2551810583569940/2025565766597215/66322
+#EXTINF:-1 tvg-ID="SA-MTV Lebanon" tvg-name="LBN.MTV LEBANON 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Mtv.png" group-title="LEBANON",LBN.MTV LEBANON 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/66323
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Jadeed TV Plus" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.Al Jadeed TV Plus
+http://xlion.net:8080/2551810583569940/2025565766597215/97857
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC International HD" tvg-logo="http://pic.apkdt.co/pic/Lebanon/LBCINTERNATIONAL.png" group-title="LEBANON",LBN.LBC International HD
+http://xlion.net:8080/2551810583569940/2025565766597215/97858
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.TELELIBAN TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/TVLEB.png" group-title="LEBANON",LBN.TELELIBAN TV
+http://xlion.net:8080/2551810583569940/2025565766597215/97860
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Manar TV" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.Al Manar TV
+http://xlion.net:8080/2551810583569940/2025565766597215/97861
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.LBC 3 UNIVERSAL" tvg-logo="http://pic.apkdt.co/pic/Lebanon/LBC3.png" group-title="LEBANON",LBN.LBC 3 UNIVERSAL
+http://xlion.net:8080/2551810583569940/2025565766597215/97862
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Al Mayadeen TV Plus" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.Al Mayadeen TV Plus
+http://xlion.net:8080/2551810583569940/2025565766597215/97863
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.Alwifak news" tvg-logo="http://163.172.39.182:80/logo/wifaknews.jpg" group-title="LEBANON",LBN.Alwifak news
+http://xlion.net:8080/2551810583569940/2025565766597215/97864
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL AAN 4K" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Alaan.png" group-title="LEBANON",LBN.AL AAN 4K
+http://xlion.net:8080/2551810583569940/2025565766597215/97865
+#EXTINF:-1 tvg-ID="SA-OTV Lebanon" tvg-name="LBN.OTV" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.OTV
+http://xlion.net:8080/2551810583569940/2025565766597215/15158
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL JADEED" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.AL JADEED
+http://xlion.net:8080/2551810583569940/2025565766597215/15009
+#EXTINF:-1 tvg-ID="SA-Future TV" tvg-name="LBN.FUTURE TV" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.FUTURE TV
+http://xlion.net:8080/2551810583569940/2025565766597215/15011
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL MAYADEEN" tvg-logo="http://pic.apkdt.co/pic/Logo/News/31.png" group-title="LEBANON",LBN.AL MAYADEEN
+http://xlion.net:8080/2551810583569940/2025565766597215/15034
+#EXTINF:-1 tvg-ID="SA-MTV Lebanon" tvg-name="LBN.ONE" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Onetv.png" group-title="LEBANON",LBN.ONE
+http://xlion.net:8080/2551810583569940/2025565766597215/15012
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AL MANAR TV" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Almanar.png" group-title="LEBANON",LBN.AL MANAR TV
+http://xlion.net:8080/2551810583569940/2025565766597215/15010
+#EXTINF:-1 tvg-ID="" tvg-name="LBN.AGHANI" tvg-logo="http://pic.apkdt.co/pic/Lebanon/Aghani.png" group-title="LEBANON",LBN.AGHANI
+http://xlion.net:8080/2551810583569940/2025565766597215/14881
+#EXTINF:-1 tvg-ID="SA-Tele Liban" tvg-name="LBN.TL LIBAN" tvg-logo="http://163.172.39.182:80/logo/sham.png" group-title="LEBANON",LBN.TL LIBAN
+http://xlion.net:8080/2551810583569940/2025565766597215/21206
+#EXTINF:-1 tvg-ID="SA-NBN" tvg-name="LBN.NBN HD" tvg-logo="http://pic.apkdt.co/pic/Lebanon/NBNTV.png" group-title="LEBANON",LBN.NBN HD
+http://xlion.net:8080/2551810583569940/2025565766597215/15013
+#EXTINF:-1 tvg-ID="SA-LBC" tvg-name="LBN.LBC SAT" tvg-logo="http://pic.apkdt.co/pic/Lebanon/LBC.png" group-title="LEBANON",LBN.LBC SAT
+http://xlion.net:8080/2551810583569940/2025565766597215/15156
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
