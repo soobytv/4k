@@ -37,18 +37,6 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="TEST",JADEED
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263709
-#EXTINF:-1 tvg-id="" tvg-name="LBC" tvg-logo="" group-title="TEST",LBC
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263703
-#EXTINF:-1 tvg-id="" tvg-name="LBC1" tvg-logo="" group-title="TEST",LBC1
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263705
-#EXTINF:-1 tvg-id="" tvg-name="LBC2" tvg-logo="" group-title="TEST",LBC2
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263702
-#EXTINF:-1 tvg-id="" tvg-name="LBC3" tvg-logo="" group-title="TEST",LBC3
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263700
-#EXTINF:-1 tvg-id="" tvg-name="LBC4" tvg-logo="" group-title="TEST",LBC4
-http://91.218.50.27:8080/houmid738/1a1dbbe35/263698
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
