@@ -37,6 +37,10 @@ https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shls-live-ak.akamaized.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="LEBANESE",JADEED
+http://my.atrupo4k.com:8080/youssef2506/hAXNTNSJWRjE2Bv/71466
+#EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="https://picons.atlaspro.to/pubs/december2020/12-20-2020/bs.png" group-title="LEBANESE",LBCI
+http://my.atrupo4k.com:8080/youssef2506/hAXNTNSJWRjE2Bv/71479
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
