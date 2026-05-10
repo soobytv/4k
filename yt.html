@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">
+        body { margin: 0; background: #000; }
+        #player {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style> 
+</head>
+<body>
+    <div id="player"></div>
+    <script>
+      // Load YouTube IFrame API
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+
+      function onYouTubeIframeAPIReady() {
+        // Extract fragment after '#'
+        const hash = location.hash.substring(1); // e.g. "link=abcd1234"
+        let idd = null;
+        if (hash.startsWith("link=")) {
+          idd = hash.replace("link=", "");
+        }
+
+        if (idd) {
+          player = new YT.Player('player', {
+            width: '100%',
+            height: '100%',
+            videoId: idd,
+            playerVars: {
+              'playsinline': 1,
+              'autoplay': 1,
+              'controls': 1,
+              'modestbranding': 1,   // hides YouTube logo
+              'rel': 0,              // no related videos
+              'fs': 1,               // allow fullscreen
+              'origin': window.location.origin // required for some embeds
+            },
+            events: {
+              'onReady': onPlayerReady,
+              'onStateChange': onPlayerStateChange
+            }
+          });
+        } else {
+          document.getElementById('player').innerHTML =
+            "<p style='color:white;text-align:center'>No video ID provided.</p>";
+        }
+      }
+
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      var done = false;
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.PLAYING && !done) {
+          done = true;
+        }
+      }
+
+      function stopVideo() {
+        if (player) player.stopVideo();
+      }
+    </script>
+</body>
+</html>
