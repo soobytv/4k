@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Invidious</ShortName>
+  <LongName>Invidious Search</LongName>
+  <Description>Search for videos, channels, and playlists on Invidious</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="48" height="48" type="image/x-icon">https://invidious.nerdvpn.de/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://invidious.nerdvpn.de/search?q={searchTerms}"/>
+</OpenSearchDescription>
