@@ -22,7 +22,7 @@ https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FUTURE" tvg-logo="" group-title="LEBANESE",FUTURE
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
-https://c78b2b245115439fa65004296fd1d93d.mediatailor.eu-west-1.amazonaws.com/v1/master/065e37dd36f6dc7043679a61592f17340f3617b6/bitmovin-prod-live-apps/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
+https://c78b2b245115439fa65004296fd1d93d.mediatailor.eu-west-1.amazonaws.com/v1/master/065e37dd36f6dc7043679a61592f17340f3617b6/bitmovin-prod-live-apps/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264\u0026video_height=144-720\u0026video_codec=H264
 #EXTINF:-1 tvg-id="" tvg-name="MTV1" tvg-logo="" group-title="LEBANESE",MTV1
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8?premium=true
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
