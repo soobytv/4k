@@ -39,6 +39,8 @@ https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/ind
 https://sensestv.com/stream/sensesonline/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FAYROUZ TV" tvg-logo="" group-title="LEBANESE",FAYROUZ TV
 https://shd-amg-fast.akamaized.net/tx029/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTVV" tvg-logo="" group-title="LEBANESE",MTVV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="التحكم" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",التحكم
 https://raw.githubusercontent.com/soobytv/4k/main/22.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ألفا" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",ألفا
