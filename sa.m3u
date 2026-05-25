@@ -24,7 +24,7 @@ https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="LEBANESE",MTV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTVo" tvg-logo="" group-title="LEBANESE",MTVo
-https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8?token=true
+https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8?token=f4rOeiMWNrmvvAExLqDT0g:cUXiL96D6zWmPW24xLXBqpdp12_ZftNH-Ncg68otcQbVwn-46C_tLUPXhs2_ITT35qrMhZYJjo36vyhDgblfZ4YlD8N3wVeeX__A9gVKZcAetwo4gicoZ0ThR6D-oh0tLlF9YpCHUvJpJ_59qr3Eov-CxN_GA8bcwwQ0ARuGMphXP1KHa2nsHu-I8o1br4RRdg6f7LoMpRkdC_jOM4bjeaPTA8nu4Apta-qIS77TfOVLTTj1rANhzKrJXPmVhJIJuZbxGNZ7ZZcTtfNZdv3S0tutvQOuqs2nDRuO-RtzU2oy7qXnhvhDg-VTJG3jyZhY
 #EXTINF:-1 tvg-id="" tvg-name="MTVone" tvg-logo="" group-title="LEBANESE",MTVone
 https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAYADIN" tvg-logo="" group-title="LEBANESE",MAYADIN
