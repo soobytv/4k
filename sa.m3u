@@ -65,6 +65,8 @@ https://raw.githubusercontent.com/soobytv/4k/main/ma.mp4
 https://raw.githubusercontent.com/soobytv/4k/main/third.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Video" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/brai.png" group-title="SLEEP WELL",Video
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The Godfather" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",The Godfather
+https://raw.githubusercontent.com/soubilombardo/soubi/main/The Godfather.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Hopkins" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Hopkins
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Hopkins.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Argentina" tvg-logo="https://raw.githubusercontent.com/soobytv/4k/main/untiled.png" group-title="TOP MUSIC",Argentina
