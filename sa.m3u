@@ -153,6 +153,16 @@ http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
 http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="Entertainment",1VOD-Documentary
 http://185.104.71.236:25461/live/ST/ST/40.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sadalarz-CineMovies" tvg-logo="" group-title="Entertainment",Sadalarz-CineMovies
+http://185.104.71.236:25461/1st/1st/1346
+#EXTINF:-1 tvg-id="" tvg-name="Sadalarz-Cinarab" tvg-logo="" group-title="Entertainment",Sadalarz-Cinarab
+http://185.104.71.236:25461/1st/1st/1347
+#EXTINF:-1 tvg-id="" tvg-name="MTV-LEB" tvg-logo="" group-title="Entertainment",MTV-LEB
+http://185.104.71.236:25461/1st/1st/9
+#EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="Entertainment",LBCI
+http://185.104.71.236:25461/1st/1st/16
+#EXTINF:-1 tvg-id="" tvg-name="AL-JADEED" tvg-logo="" group-title="Entertainment",AL-JADEED
+http://185.104.71.236:25461/1st/1st/17
 #EXTINF:-1 tvg-id="" tvg-name="JADEED" tvg-logo="" group-title="LEBANESE",JADEED
 http://my.atrupo4k.com:8080/youssef2506/hAXNTNSJWRjE2Bv/71466.ts
 #EXTINF:-1 tvg-id="" tvg-name="LBCI" tvg-logo="" group-title="LEBANESE",LBCI
