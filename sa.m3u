@@ -197,6 +197,142 @@ http://amir11.bounceme.net:8080/YZjwcwnLjh/QlXrgJTnED/1568
 http://amir11.bounceme.net:8080/YZjwcwnLjh/QlXrgJTnED/1569
 #EXTINF:-1 tvg-id="" tvg-name="AL JADEED LEBANON" tvg-logo="" group-title="LIVE",AL JADEED LEBANON
 http://amir11.bounceme.net:8080/YZjwcwnLjh/QlXrgJTnED/1570
+#EXTINF:-1 tvg-id="araljadeed.lb" tvg-name="AL JADEED" tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="Lebanon - لبنانية",AL JADEED
+http://arabitv5.com:8000/IsmailZeeni/704hO/1893
+#EXTINF:-1 tvg-id="araljadeed.lb" tvg-name="AL JADEED HD" tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="Lebanon - لبنانية",AL JADEED HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/62602
+#EXTINF:-1 tvg-id="araljadeed.lb" tvg-name="AL JADEED HEVC" tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="Lebanon - لبنانية",AL JADEED HEVC
+http://arabitv5.com:8000/IsmailZeeni/704hO/65583
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="NBN LB" tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="Lebanon - لبنانية",NBN LB
+http://arabitv5.com:8000/IsmailZeeni/704hO/1895
+#EXTINF:-1 tvg-id="" tvg-name="NBN HD LEBANON" tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="Lebanon - لبنانية",NBN HD LEBANON
+http://arabitv5.com:8000/IsmailZeeni/704hO/61529
+#EXTINF:-1 tvg-id="" tvg-name="LBC TV" tvg-logo="https://logo.m3uassets.com/lbctv.png" group-title="Lebanon - لبنانية",LBC TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/1898
+#EXTINF:-1 tvg-id="" tvg-name="LDC LB" tvg-logo="https://logo.m3uassets.com/ldc.png" group-title="Lebanon - لبنانية",LDC LB
+http://arabitv5.com:8000/IsmailZeeni/704hO/1897
+#EXTINF:-1 tvg-id="lbc.lb" tvg-name="LBC HD" tvg-logo="https://logo.m3uassets.com/lbc.png" group-title="Lebanon - لبنانية",LBC HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/61532
+#EXTINF:-1 tvg-id="" tvg-name="LBC EUROPE HD" tvg-logo="https://logo.m3uassets.com/lbceurope.png" group-title="Lebanon - لبنانية",LBC EUROPE HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/61543
+#EXTINF:-1 tvg-id="otv.lb" tvg-name="OTV LB" tvg-logo="https://logo.m3uassets.com/otv.png" group-title="Lebanon - لبنانية",OTV LB
+http://arabitv5.com:8000/IsmailZeeni/704hO/45
+#EXTINF:-1 tvg-id="" tvg-name="LEBANON TV" tvg-logo="https://logo.m3uassets.com/tv.png" group-title="Lebanon - لبنانية",LEBANON TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/1894
+#EXTINF:-1 tvg-id="mtv.lb" tvg-name="MTV LEBANON" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Lebanon - لبنانية",MTV LEBANON
+http://arabitv5.com:8000/IsmailZeeni/704hO/1896
+#EXTINF:-1 tvg-id="" tvg-name="MTV LEB HD" tvg-logo="https://logo.m3uassets.com/mtvlebanon.png" group-title="Lebanon - لبنانية",MTV LEB HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/60936
+#EXTINF:-1 tvg-id="mtv.lb" tvg-name="MTV LEBANON HD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Lebanon - لبنانية",MTV LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/61497
+#EXTINF:-1 tvg-id="" tvg-name="ONE LEBANON" tvg-logo="https://logo.m3uassets.com/one.png" group-title="Lebanon - لبنانية",ONE LEBANON
+http://arabitv5.com:8000/IsmailZeeni/704hO/55946
+#EXTINF:-1 tvg-id="futuretv.lb" tvg-name="FUTURE LEBANON" tvg-logo="https://logo.m3uassets.com/future°.png" group-title="Lebanon - لبنانية",FUTURE LEBANON
+http://arabitv5.com:8000/IsmailZeeni/704hO/4290
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="MANAR TV" tvg-logo="https://logo.m3uassets.com/almanartv.png" group-title="Lebanon - لبنانية",MANAR TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/28800
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="AL MANAR" tvg-logo="https://logo.m3uassets.com/almanar.png" group-title="Lebanon - لبنانية",AL MANAR
+http://arabitv5.com:8000/IsmailZeeni/704hO/1900
+#EXTINF:-1 tvg-id="" tvg-name="ALALAM TV" tvg-logo="https://logo.m3uassets.com/alalam.png" group-title="Lebanon - لبنانية",ALALAM TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/3961
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="AL MAYADEEN TV" tvg-logo="https://logo.m3uassets.com/almayadeentv.png" group-title="Lebanon - لبنانية",AL MAYADEEN TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/39142
+#EXTINF:-1 tvg-id="" tvg-name="IFILM ARABIC" tvg-logo="https://logo.m3uassets.com/ifilmarabic.png" group-title="Lebanon - لبنانية",IFILM ARABIC
+http://arabitv5.com:8000/IsmailZeeni/704hO/42877
+#EXTINF:-1 tvg-id="" tvg-name="AL IMAN" tvg-logo="https://logo.m3uassets.com/aliman.png" group-title="Lebanon - لبنانية",AL IMAN
+http://arabitv5.com:8000/IsmailZeeni/704hO/5665
+#EXTINF:-1 tvg-id="" tvg-name="ALIMAN TV" tvg-logo="https://logo.m3uassets.com/aliman.png" group-title="Lebanon - لبنانية",ALIMAN TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/42876
+#EXTINF:-1 tvg-id="" tvg-name="AL MASIRAH TV" tvg-logo="https://logo.m3uassets.com/almasirahtv.png" group-title="Lebanon - لبنانية",AL MASIRAH TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/74359
+#EXTINF:-1 tvg-id="" tvg-name="ETIHAD TV" tvg-logo="https://logo.m3uassets.com/lbnetihadtv.png" group-title="Lebanon - لبنانية",ETIHAD TV
+http://arabitv5.com:8000/IsmailZeeni/704hO/78170
+#EXTINF:-1 tvg-id="100%tv.nl" tvg-name="NBN HD LEBANON" tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="Lebanon - لبنانية",NBN HD LEBANON
+http://arabitv5.com:8000/IsmailZeeni/704hO/111827
+#EXTINF:-1 tvg-id="mtv.lb" tvg-name="MTV LEBANON HD" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Lebanon - لبنانية",MTV LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/111828
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI LEBANON HD" tvg-logo="https://logo.m3uassets.com/aghani.png" group-title="Lebanon - لبنانية",AGHANI LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/111829
+#EXTINF:-1 tvg-id="arabicatv.lb" tvg-name="ARABICA TV LEBANON HD" tvg-logo="https://logo.m3uassets.com/arabicatv.png" group-title="Lebanon - لبنانية",ARABICA TV LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/111830
+#EXTINF:-1 tvg-id="araljadeed.lb" tvg-name="AL JADEED LEBANON HD" tvg-logo="https://logo.m3uassets.com/aljadeed.png" group-title="Lebanon - لبنانية",AL JADEED LEBANON HD
+http://176.65.146.77:8888/hls/1/index.m3u8?timeshift=1
+#EXTINF:-1 tvg-id="" tvg-name="HAWAKOM LEBANON HD" tvg-logo="https://logo.m3uassets.com/hawacom.png" group-title="Lebanon - لبنانية",HAWAKOM LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/111832
+#EXTINF:-1 tvg-id="otv.lb" tvg-name="OTV LEBANON HD" tvg-logo="https://logo.m3uassets.com/otv.png" group-title="Lebanon - لبنانية",OTV LEBANON HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/111833
+#EXTINF:-1 tvg-id="" tvg-name="TELE LEBANON HD" tvg-logo="https://logo.m3uassets.com/tele.png" group-title="Lebanon - لبنانية",TELE LEBANON HD
+http://176.65.146.77:8888/hls/2/index.m3u8?timeshift=12
+#EXTINF:-1 tvg-id="araljadeed.lb" tvg-name="ALJADEED TV RAW" tvg-logo="https://logo.m3uassets.com/aljadeedtv.png" group-title="Lebanon - لبنانية",ALJADEED TV RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155712
+#EXTINF:-1 tvg-id="" tvg-name="AGHANI RAW" tvg-logo="https://logo.m3uassets.com/aghani.png" group-title="Lebanon - لبنانية",AGHANI RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155713
+#EXTINF:-1 tvg-id="arabicatv.lb" tvg-name="ARABICA RAW" tvg-logo="https://logo.m3uassets.com/arabicatv.png" group-title="Lebanon - لبنانية",ARABICA RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155714
+#EXTINF:-1 tvg-id="" tvg-name="HAWACOM RAW" tvg-logo="https://logo.m3uassets.com/hawacom.png" group-title="Lebanon - لبنانية",HAWACOM RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155715
+#EXTINF:-1 tvg-id="arlbcinternational.lb" tvg-name="LBC INTERNATIONAL RAW" tvg-logo="https://logo.m3uassets.com/lbcinternational.png" group-title="Lebanon - لبنانية",LBC INTERNATIONAL RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155716
+#EXTINF:-1 tvg-id="mtv.lb" tvg-name="MTV LEBANON RAW" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Lebanon - لبنانية",MTV LEBANON RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155717
+#EXTINF:-1 tvg-id="" tvg-name="NBN RAW" tvg-logo="https://logo.m3uassets.com/nbn.png" group-title="Lebanon - لبنانية",NBN RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155718
+#EXTINF:-1 tvg-id="otv.lb" tvg-name="OTV RAW" tvg-logo="https://logo.m3uassets.com/otv.png" group-title="Lebanon - لبنانية",OTV RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155719
+#EXTINF:-1 tvg-id="" tvg-name="ONE TV RAW" tvg-logo="https://logo.m3uassets.com/onetv.png" group-title="Lebanon - لبنانية",ONE TV RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155720
+#EXTINF:-1 tvg-id="" tvg-name="TELELIBAN TV RAW" tvg-logo="https://logo.m3uassets.com/teleliban.png" group-title="Lebanon - لبنانية",TELELIBAN TV RAW
+http://arabitv5.com:8000/IsmailZeeni/704hO/155721
+#EXTINF:-1 tvg-id="lbc.lb" tvg-name="LBC 2 HD" tvg-logo="" group-title="Lebanon - لبنانية",LBC 2 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/236133
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 1 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508609
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 2 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508610
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 3 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508611
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 4 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508612
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 5 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508613
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 HD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 6 HD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508614
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 1 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508615
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 2 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508616
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 3 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508617
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 4 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508618
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 5 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508619
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 SD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 6 SD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508620
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 1 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508621
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 2 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508622
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 3 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508623
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 4 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508624
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 5 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508625
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 4K" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 6 4K
+http://arabitv5.com:8000/IsmailZeeni/704hO/508626
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 1 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 1 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508627
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 2 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 2 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508628
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 3 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 3 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508629
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 4 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 4 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508630
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 5 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 5 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508631
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports Max 6 FHD" tvg-logo="" group-title="BEIN MAX  كاس العالم",Bein Sports Max 6 FHD
+http://arabitv5.com:8000/IsmailZeeni/704hO/508632
 #EXTINF:-1 tvg-id= tvg-name="Bein Max 1 4K (S1)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdmRoDV5tDt4iWrhQ__soVTp4OD3uhzzNgQ&s" group-title="FIFA WORLD CUP 2026",Bein Max 1 4K (S1)
 http://ibo.lynxiptv.com/live/206923845871/mI45UxamwN/255224.m3u8
 #EXTINF:-1 tvg-id= tvg-name="Bein Max 1 4K (S2)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdmRoDV5tDt4iWrhQ__soVTp4OD3uhzzNgQ&s" group-title="FIFA WORLD CUP 2026",Bein Max 1 4K (S2)
