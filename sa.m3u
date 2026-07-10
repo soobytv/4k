@@ -141,7 +141,7 @@ https://raw.githubusercontent.com/soubilombardo/soubi/main/Ch.mp4
 http://iptv.icsnleb.com:25461/a/b/1345
 #EXTINF:-1 tvg-id="" tvg-name="Sadalarz-Docs" tvg-logo="" group-title="Entertainment",Sadalarz-Docs
 http://iptv.icsnleb.com:25461/a/b/1052
-#EXTINF:-1 tvg-id="" tvg-name="Sadalarz-Leb" tvg-logo="http://iptv.icsnleb.com:25461/images/d6429679999c0a3be062c779713858e1.png" group-title="live-stream",Sadalarz-Leb
+#EXTINF:-1 tvg-id="" tvg-name="Sadalarz-Leb" tvg-logo="http://iptv.icsnleb.com:25461/images/d6429679999c0a3be062c779713858e1.png" group-title="Entertainment",Sadalarz-Leb
 http://iptv.icsnleb.com:25461/a/b/1034
 #EXTINF:-1 tvg-id="" tvg-name="Sadalarz-CineMovies" tvg-logo="" group-title="Entertainment",Sadalarz-CineMovies
 http://iptv.icsnleb.com:25461/a/b/1346
