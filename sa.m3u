@@ -138,20 +138,20 @@ https://raw.githubusercontent.com/soubilombardo/soubi/main/You.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Mix" tvg-logo="https://images.creativefabrica.com/products/previews/2023/11/05/orbrnLuKY/2XkPLwJM0GU6kfzmNnCuk2mBMsc-desktop.jpg" group-title="Christmas",Mix
 https://raw.githubusercontent.com/soubilombardo/soubi/main/Ch.mp4
 #EXTINF:-1 tvg-id="" tvg-name="1Sada-El-Arz-Tv" tvg-logo="" group-title="Entertainment",1Sada-El-Arz-Tv
-http://iptv.icsnleb.com:25461/live/ST/ST/1034.ts
+http://iptv.icsnleb.com:25461/live/a/b/1034.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Music" tvg-logo="" group-title="Entertainment",1VOD-Music
-http://185.104.71.236:25461/live/ST/ST/36.ts
+http://185.104.71.236:25461/live/a/b/36.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Movies" tvg-logo="" group-title="Entertainment",1VOD-Movies
-http://iptv.icsnleb.com:25461/live/ST/ST/55.ts
+http://iptv.icsnleb.com:25461/live/a/b/55.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Leb" tvg-logo="" group-title="Entertainment",1VOD-Leb
-http://185.104.71.236:25461/live/ST/ST/37.ts
+http://185.104.71.236:25461/live/a/b/37.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Cinema" tvg-logo="" group-title="Entertainment",1VOD-Cinema
-http://iptv.icsnleb.com:25461/live/ST/ST/59.ts
+http://iptv.icsnleb.com:25461/live/a/b/59.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Series" tvg-logo="" group-title="Entertainment",1VOD-Series
-http://iptv.icsnleb.com:25461/live/ST/ST/49.ts
+http://iptv.icsnleb.com:25461/live/a/b/49.ts
 #EXTINF:-1 tvg-id="" tvg-name="1VOD-Documentary" tvg-logo="" group-title="Entertainment",1VOD-Documentary
-http://185.104.71.236:25461/live/ST/ST/40.ts
+http://185.104.71.236:25461/live/a/b/40.ts
 #EXTINF:-1 tvg-id="" tvg-name="Sadalarz-CineMovies" tvg-logo="" group-title="Entertainment",Sadalarz-CineMovies
-http://185.104.71.236:25461/1st/1st/1346
+http://185.104.71.236:25461/a/b/1346
 #EXTINF:-1 tvg-id="" tvg-name="Sadalarz-Cinarab" tvg-logo="" group-title="Entertainment",Sadalarz-Cinarab
-http://185.104.71.236:25461/1st/1st/1347
+http://185.104.71.236:25461/a/b/1347
