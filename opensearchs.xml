@@ -4,6 +4,6 @@
   <LongName>Invidious Search</LongName>
   <Description>Search for videos, channels, and playlists on Invidious</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="48" height="48" type="image/x-icon">https://invidious.f5.si/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://invidious.f5.si/search?q={searchTerms}"/>
+  <Image width="48" height="48" type="image/x-icon">https://inv.nadeko.net/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://inv.nadeko.net/search?q={searchTerms}"/>
 </OpenSearchDescription>
