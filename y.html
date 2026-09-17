@@ -1,52 +1,64 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <style type="text/css">
-            .d-none {
-              display: none;
-            }
-            body {
-                    margin: 0;
-                }
-            iframe {
-                display: block;
-                background: #000;
-                border: none;
-                height: 100vh;
-                width: 100vw;
-            }
-          </style> 
-    </head>
-  <body>
-<div id="player"></div>
-<script>
-  var tag = document.createElement('script');
-  tag.src = "https://www.youtube.com/iframe_api";
-  document.getElementsByTagName('script')[0].parentNode.insertBefore(tag, document.getElementsByTagName('script')[0]);
-  var player;
-  function onYouTubeIframeAPIReady() {
-    const params = new URL(location.href).searchParams;
-    const idd = params.get('link');
-    player = new YT.Player('player', {
-      height: '390',
-      width: '640',
-      videoId: idd,
-      playerVars: {
-        playsinline: 1,
-        autoplay: 1,
-        controls: 1,
-        origin: location.origin,
-        modestbranding: 1
-      },
-      events: {
-        onReady: function(e){ e.target.playVideo(); },
-        onStateChange: onPlayerStateChange
-      }
-    });
-  }
-  function onPlayerStateChange(event) { /* ... */ }
-</script>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>YouTube Player</title>
+  <style>
+    html,body { height:100%; margin:0; background:#000; }
+    #player { width:100vw; height:100vh; display:flex; align-items:center; justify-content:center; }
+    .video-container { width:100%; height:100%; max-width:1920px; max-height:1080px; }
+    .fallback { color:#fff; text-align:center; padding:20px; font-family:system-ui,Segoe UI,Roboto,Arial; }
+  </style>
+</head>
+<body>
+  <div id="player" class="video-container" aria-live="polite">
+    <div class="fallback">
+      Loading video… If the player does not appear, open the link on YouTube to watch the trailer.
+    </div>
+  </div>
+
+  <script>
+    // Load YouTube IFrame API
+    var tag = document.createElement('script');
+    tag.src = "https://www.youtube.com/iframe_api";
+    document.getElementsByTagName('script')[0].parentNode.insertBefore(tag, document.getElementsByTagName('script')[0]);
+
+    var player;
+    function onYouTubeIframeAPIReady() {
+      const params = new URL(location.href).searchParams;
+      const idd = params.get('link'); // use ?link=VIDEO_ID in the page URL
+      if (!idd) return;
+      player = new YT.Player('player', {
+        height: '100%',
+        width: '100%',
+        videoId: idd,
+        playerVars: {
+          playsinline: 1,
+          autoplay: 1,
+          controls: 1,
+          origin: location.origin,
+          modestbranding: 1,
+          rel: 0
+        },
+        events: {
+          onReady: function(e) {
+            // try to play, browsers may block autoplay without user gesture
+            try { e.target.playVideo(); } catch (err) { /* autoplay blocked */ }
+          },
+          onStateChange: onPlayerStateChange
+        }
+      });
+    }
+
+    function onPlayerStateChange(event) {
+      // keep for analytics or custom behavior
+    }
+
+    // Optional helper to stop the video
+    function stopVideo() {
+      if (player && player.stopVideo) player.stopVideo();
+    }
+  </script>
+</body>
 </html>
-
-
